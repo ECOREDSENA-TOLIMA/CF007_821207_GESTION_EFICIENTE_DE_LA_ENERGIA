@@ -241,6 +241,129 @@
                     span Descargar
                     i.fas.fa-file-download
 
+    Separador
+    #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 1.3 Ley cero de la termodinámica
+
+    p.mb-3(data-aos="fade-right") Esta ley permite establecer el equilibrio térmico, se invita a visualizar cómo ocurre, explorando la didáctica.
+    p.mb-5(data-aos="fade-right") La ley cero de la termodinámica establece que “si dos cuerpos se encuentran en equilibrio térmico con un tercero, están en equilibrio térmico entre sí” (Çengel y Boles, 2015, p.17).
+    .row.mb-5.align-self-stretch.justify-content-center
+      .col-11.col-md-9.col-lg-8(data-aos="fade-down-right")
+        figure
+          img(src='@/assets/curso/temas/tema1/tema1-18.svg', alt='')
+    p.mb-5(data-aos="fade-right") Si colocamos una taza de café que está caliente y una lata con bebida fría sobre una mesa, con el tiempo, la taza con café caliente se enfriará y la bebida fría estará menos fría (o tibia). Esto ocurre debido a la transferencia de energía (calor) entre cada recipiente con el aire del ambiente. En el caso de la taza de café caliente, se transfiere calor al entorno (ambiente) hasta que sus temperaturas se igualen. Mientras que en el caso de la bebida fría, recibirá calor del ambiente, hasta que se igualen sus temperaturas. Esto constituye un ejemplo de la Ley Cero de la termodinámica.
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="fade-right")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Ejemplo Ley Cero de la Termodinámica] 
+        figure
+          img(src='@/assets/curso/temas/tema1/tema1-19.svg', alt='')  
+
+    p.mb-3(data-aos="fade-right")  Veamos cómo ocurre el flujo de calor entre dos cuerpos o sistemas con diferente temperatura.
+    p.mb-5(data-aos="fade-right")  Dos sistemas que se encuentran a diferente temperatura, al ponerse en contacto, experimentan transferencia de calor, que ocurre desde el cuerpo caliente hacia el frío, hasta que se igualen las temperaturas de ambos. Cuando se igualan las temperaturas, se dice que los cuerpos se encuentran en estado de equilibrio térmico.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="fade-right")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Dirección del flujo de calor] 
+        figure
+          img(src='@/assets/curso/temas/tema1/tema1-20.svg', alt='') 
+
+    p.mb-5(data-aos="fade-right") En la siguiente figura, el cuerpo A está en equilibrio térmico con el cuerpo B. A su vez, el cuerpo B está en equilibrio térmico con el cuerpo C, por tanto, el cuerpo A está en equilibrio térmico con el cuerpo C.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="fade-right")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Representación de la Ley Cero de la Termodinámica] 
+        figure
+          img(src='@/assets/curso/temas/tema1/tema1-21.svg', alt='') 
+
+    Separador
+    #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 1.4 La primera ley de la termodinámica
+
+    p.mb-5(data-aos="fade-right") La primera ley de la termodinámica es una expresión del principio de conservación de la energía y sostiene que la energía es una propiedad termodinámica. #[strong El principio de conservación de la energía] manifiesta que, durante una interacción, la energía puede cambiar de una forma a otra, pero su cantidad total permanece constante. La primera ley enuncia que:
+
+    .row.mb-5
+      .col-md-6.mb-5.mb-lg-0
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular La energía no se puede crear ni destruir durante un proceso; solo puede cambiar de forma.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            span (Cengel & Boles, 2015, p.70).
+      .col-md-6.mb-5.mb-lg-0
+        figure
+          img(src='@/assets/curso/temas/tema1/tema1-22.svg', alt='') 
+
+    p.mb-5(data-aos="fade-right") Se invita a que complemente su estudio, revisando la siguiente información.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.mb-4.mb-md-0(data-aos="fade-left")
+        .tarjeta.color-primario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/descargar.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 Primera ley de la termodinámica
+                  p.text-small Se establece la relación entre el trabajo, el calor y la energía interna de un sistema relacionados con la primera ley de la termodinámica, como la energía, algunas de sus principales formas y cómo se transforma.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_4_La_primera_ley_de_la_termodinámica.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
+    Separador
+    #t_1_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 1.5 La segunda ley de la termodinámica
+
+    p.mb-3(data-aos="fade-right") Establece el sentido en el que ocurre un proceso. La segunda ley surgió a partir de algunas restricciones a la primera ley, esta última no permite tener certeza de si un proceso puede o no ocurrir. No obstante, para que ocurra un proceso, este debe satisfacer tanto la primera como la segunda ley de la termodinámica.
+    p.mb-5(data-aos="fade-right") Se invita a que complemente su estudio, revisando la siguiente información.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.mb-4.mb-md-0(data-aos="fade-left")
+        .tarjeta.color-primario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/descargar.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 Segunda ley de la termodinámica
+                  p.text-small Se presentan en primer lugar algunos conceptos relacionados con la segunda ley, como depósitos, máquinas térmicas, entre otros, en los postulados de la segunda ley se presenta el ciclo de Carnot como ciclo ideal, y algunas máquinas como refrigeradores y bombas de calor.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_5_La_segunda_ley_de_la_termodinámica.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
+
+    Separador
+    #t_1_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 1.6 Ciclos termodinámicos
+
+    p.mb-3(data-aos="fade-right") Son una serie de transformaciones termodinámicas realizadas en uno o más dispositivos, con el objetivo de producir trabajo a partir de dos fuentes de calor a distinta temperatura, o de manera inversa, permitir la utilización del trabajo para que haya transferencia de calor de la fuente de menor temperatura a la de mayor temperatura. El trabajo obtenido es utilizado para producir movimiento o para generar electricidad.
+    p.mb-5(data-aos="fade-right") Se invita a que complemente su estudio revisando la siguiente información.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.mb-4.mb-md-0(data-aos="fade-left")
+        .tarjeta.color-primario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/descargar.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 Principales ciclos de la termodinámica
+                  p.text-small Descubra cuáles son los principales ciclos que se estudian en termodinámica a partir de las distintas fuentes de energía.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_6_Ciclos_termodinámicos.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
 
       
 </template>
