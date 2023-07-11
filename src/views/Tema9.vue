@@ -372,7 +372,59 @@
               img(src='@/assets/curso/temas/tema9/tema9-11.png', alt='')
         p.text-center A cambio de la prestación del servicio, mensualmente reciben una factura donde se cobra un valor en pesos proporcional al consumo en kilovatioshora (kWh) de acuerdo con un precio unitario de pesos por kilovatiohora ($/kWh) pactado con la empresa comercializadora.
 
+    Separador
+    #t_9_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 9.3 Usuarios regulados y no regulados
 
+    p.mb-5(data-aos="fade-right") En Colombia los usuarios se dividen en dos clasificaciones: regulados y no regulados. El término “regulado” indica que el valor unitario de pesos por kilovatio hora es establecido o regulado por la CREG. En la siguiente tabla se resumen las características de cada tipo de usuario:
+
+
+    .row.justify-content-center.mb-4
+      .col-12(data-aos="fade-left")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Tabla 10. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
+        .tabla-a.color-acento-botones.mb-4
+          figure
+            img(src='@/assets/curso/temas/tema9/tema9-12.svg', alt='')
+
+    p.mb-5(data-aos="fade-right") La ventaja de pertenecer a la categoría de usuario no regulado, es que por lo general (salvo en casos muy especiales) se obtiene un mejor precio por el valor unitario del kilovatio hora ($/kWh), permitiendo que se pague menos dinero por el consumo total facturado. Lo anterior se refleja en la siguiente figura donde se muestra el comportamiento del valor unitario promedio en el país durante los años 2016 a 2018 por departamento:
+
+    .row.justify-content-center.mb-4
+      .col-12(data-aos="fade-left")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Tabla 11. </b> <i>Comportamiento del valor unitario promedio en el país durante los años 2016 a 2018</i>
+        .tabla-a.color-acento-botones.mb-4
+          figure
+            img(src='@/assets/curso/temas/tema9/tema9-13.png', alt='')
+          figcaption Ministerio de Minas y Energía (2018) p. 104 https://www1.upme.gov.co/PromocionSector/SeccionesInteres/Documents/Boletines/Boletin_Estadistico_2018.pdf
+
+    Separador
+    #t_9_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 9.4 Consumo nacional por tipo de usuario
+
+    p.mb-5(data-aos="fade-right") El consumo de energía eléctrica determina la participación de los usuarios en el mercado y las transacciones realizadas en el sistema eléctrico nacional. En la siguiente figura se describe el porcentaje de participación por tipo de usuario en el año 2020, de acuerdo con los datos suministrados por XM (2020).
+
+    .row.justify-content-center.mb-4
+      .col-12(data-aos="fade-left")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Tabla 12. </b> <i>Porcentaje de participación por tipo de usuario en 2020</i>
+        .tabla-a.color-acento-botones.mb-4
+          figure
+            img(src='@/assets/curso/temas/tema9/tema9-14.svg', alt='')
+
+    p.mb-3(data-aos="fade-right") Se observa una mayor demanda de energía para los clientes pertenecientes al mercado regulado.
+    p.mb-5(data-aos="fade-right") Adicionalmente, de acuerdo con XM (2020), la distribución de consumo para los usuarios no regulados dependiendo de la actividad económica se muestra a continuación:
+
+
+    .row.justify-content-center.mb-4
+      .col-12(data-aos="fade-left")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Tabla 13. </b> <i>Distribución de consumo para los usuarios no regulados dependiendo de la actividad económica</i>
+        .tabla-a.color-acento-botones.mb-4
+          figure
+            img(src='@/assets/curso/temas/tema9/tema9-15.svg', alt='')
+
+    p Las industrias manufactureras y la explotación de minas y canteras se llevan la mayoría de la demanda de electricidad.
 
 
 </template>
