@@ -206,9 +206,6 @@
                   p.mb-0 Resolución CREG 114 de 2018.
                   p http://apolo.creg.gov.co/Publicac.nsf/1c09d18d2d5ffb5b05256eee00709c02/e1aa2bca619f4f6e05258305007463d1?OpenDocument
 
-
-
-
 </template>
 
 <script>
