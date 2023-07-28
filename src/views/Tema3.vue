@@ -49,7 +49,7 @@
           img(src='@/assets/curso/temas/tema3/tema3-03.svg', alt='')
       .col-md-8.mb-4.mb-md-0
         p Es la energía obtenida a partir del aprovechamiento de la radiación electromagnética procedente del sol. El aprovechamiento puede ser de dos formas: como fuente de calor (energía solar térmica) y como fuente de electricidad (energía solar fotovoltaica).
-        p Es importante mencionar que según como sea la manera de recolectar, convertir y transferir la energía del sol las tecnologías son de dos tipos: pasivas y activas. Las pasivas distribuyen y almacenan el calor de manera natural y sin transformaciones, a partir de estrategias que favorezcan el aprovechamiento de la luz solar, por ejemplo, en los edificios se adapta la orientación de las ventanas de manera que se pueda aprovechar la luz natural. Las activas aprovechan la energía mediante dispositivos fotovoltaicos y colectores solares.
+        p Es importante mencionar que según como sea la manera de recolectar, convertir y transferir la energía del sol, las tecnologías son de dos tipos: pasivas y activas. Las pasivas distribuyen y almacenan el calor de manera natural y sin transformaciones, a partir de estrategias que favorezcan el aprovechamiento de la luz solar, por ejemplo, en los edificios se adapta la orientación de las ventanas de manera que se pueda aprovechar la luz natural. Las activas aprovechan la energía mediante dispositivos fotovoltaicos y colectores solares.
 
     p.mb-5(data-aos="fade-right") Descubra más acerca de la energía solar térmica y solar fotovoltaica, revisando la siguiente información complementaria.
 
@@ -212,6 +212,8 @@
           img(src='@/assets/curso/temas/tema3/tema3-07.svg', alt='')
       .col-md-8.mb-4.mb-md-0
         p Es la energía obtenida del océano; el mar provee formas de energía que se pueden explotar de las siguientes fuentes:
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Fuentes de producción de energía marina</i>
         figure 
           img(src='@/assets/curso/temas/tema3/tema3-08.svg', alt='')
 
@@ -305,7 +307,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Distribución mundial de energías renovables 2020</i>
+          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Distribución mundial de energías renovables 2020</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema3/tema3-11.svg', alt='')
@@ -316,7 +318,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Distribución Colombia de energías renovables 2020</i>
+          p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Distribución Colombia de energías renovables 2020</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema3/tema3-12.svg', alt='')

@@ -22,7 +22,7 @@
             | A pesar de ser un promedio, el clima también experimenta cambios naturales en la magnitud de sus variables. 
           li.mb-0
             i.fas.fa-bolt(style="color:#AD84FF")
-            | Cuando estos cambios no son debidos a factores naturales sino a efectos de la actividad humana se habla de cambio climático.
+            | Cuando estos cambios no son debidos a factores naturales, sino a efectos de la actividad humana se habla de cambio climático.
       .col-12.col-md-6
         figure
           img(src='@/assets/curso/temas/tema5/tema5-01.svg', alt='')
@@ -43,9 +43,9 @@
     .row.justify-content-center.align-items-center.tarjeta--azul.mb-4(data-aos="fade-down-right") 
       .col-12.col-md-6.py-3
         .cajon.tarjeta--gris.p-3.mb-2
-          p.text-center.mb-0 Actualmente se reconoce al científico sueco Svante Arrheniuss como el pionero en el estudio del cambio climático, especialmente de la temperatura, con la publicación en 1896 de su trabajo sobre “calentamiento global”.
+          p.text-center.mb-0 Actualmente se reconoce al científico sueco #[i Svante Arrheniuss] como el pionero en el estudio del cambio climático, especialmente de la temperatura, con la publicación en 1896 de su trabajo sobre “calentamiento global”.
         .cajon.tarjeta--gris.p-3.mb-2
-          p.text-center.mb-0 Confirmado en forma independiente por el geólogo estadounidense Thomas Chamberlain y en donde se relaciona el aumento de temperatura de la superficie del planeta con el aumento de la concentración en la atmósfera del dióxido de carbono (CO2). 
+          p.text-center.mb-0 Confirmado en forma independiente por el geólogo estadounidense #[i Thomas Chamberlain] y en donde se relaciona el aumento de temperatura de la superficie del planeta con el aumento de la concentración en la atmósfera del dióxido de carbono (CO2). 
         .cajon.tarjeta--gris.p-3.mb-2
           p.text-center.mb-0 Como el clima se define como un promedio a largo plazo (30 años mínimo), comprobar la teoría del calentamiento global tomó varias décadas y muchas discusiones sobre las causas y los efectos del cambio climático.
         .cajon.tarjeta--gris.p-3.mb-2
@@ -79,17 +79,17 @@
         p.text-center.text-small Cobertura de nieve en el hemisferio norte (primavera).
 
     .cajon.color-acento-botones.p-4.mb-4
-      p En cuanto a las causas del cambio climático actualmente hay un acuerdo de la comunidad científica en atribuirlas al aumento de la concentración en la atmósfera de gases como el dióxido de carbono (CO2), metano (CH4), dióxido de nitrógeno (NO2) y otros, conocidos como gases de efecto invernadero.
+      p En cuanto a las causas del cambio climático, actualmente hay un acuerdo de la comunidad científica en atribuirlas al aumento de la concentración en la atmósfera de gases como el dióxido de carbono (CO#[sub 2]), metano (CH4), dióxido de nitrógeno (NO2) y otros, conocidos como gases de efecto invernadero.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-6.py-3
         h4 Soluciones tecnológicas
         p Según el IPCC (2007), la sociedad puede adecuarse al cambio climático y sus impactos por medio de estrategias de adaptación, mitigación y geoingeniería.
-        p Las estrategias de adaptación son necesarias porque el cambio climático natural es impredecible y no puede evitarse y ante estas circunstancias es un hecho que las acciones preventivas son más efectivas y menos costosas que las correctivas. Un ejemplo de estrategia de adaptación al aumento del nivel del mar se muestra en la siguiente figura:
+        p Las estrategias de adaptación son necesarias porque el cambio climático natural es impredecible y no puede evitarse y ante estas circunstancias es un hecho que las acciones preventivas son más efectivas y menos costosas que las correctivas. Un ejemplo de estrategia de adaptación al aumento del nivel del mar se muestra en la siguiente imagen:
       .col-12.col-md-6
         figure
           img(src='@/assets/curso/temas/tema5/tema5-07.png', alt='')
-        p.text-center.text-small Estrategias de adaptación a aumento del nivel del mar (Mark Masli, Cambio climático, 2014)
+        //p.text-center.text-small Estrategias de adaptación a aumento del nivel del mar (Mark Masli, Cambio climático, 2014)
 
     p.mb-5(data-aos="fade-right") De otra parte, están las estrategias de mitigación que hacen referencia a aquellas acciones encaminadas a disminuir las causas que producen el cambio climático, como por ejemplo, la denominada huella de carbono y cambiar de fuente primaria de energía no renovable (combustibles fósiles) a fuentes renovables como la solar, eólica, mareomotriz, geotérmica y nuclear. Revise a qué hacen alusión dichas fuentes:
 
@@ -142,7 +142,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Que es “el aprovechamiento óptimo de la energía en todas y cada una de las cadenas energéticas, desde la selección de la fuente energética, su producción, transformación, transporte, distribución, y consumo incluyendo su reutilización cuando sea posible, buscando en todas y cada una de las actividades, de la cadena el desarrollo sostenible” (Ley 697 de 2001).
+                  p.text-small Que es “el aprovechamiento óptimo de la energía en todas y cada una de las cadenas energéticas, desde la selección de la fuente energética, su producción, transformación, transporte, distribución, y consumo, incluyendo su reutilización cuando sea posible, buscando en todas y cada una de las actividades, de la cadena el desarrollo sostenible” (Ley 697 de 2001).
 
 
 

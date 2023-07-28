@@ -108,7 +108,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-md-7.mb-5.mb-lg-0(data-aos="fade-left")
         p La bolsa de energía es un sistema de información administrado por XM y regulado por las reglas del mercado mayorista (dispuestas por la Comisión de Regulación de Energía y Gas), donde se intercambian ofertas y demandas de energía entre los generadores y comercializadores.
-        p A través del sistema diariamente y con resolución horaria los generadores realizan ofertas de cantidad de energía disponible (oferta) y el precio a la que pretenden venderla (pesos/kWh), mientras que los comercializadores informan la cantidad de energía (demanda) que requieren comprar para satisfacer las necesidades de sus clientes y el precio máximo al que pretenden comprarla (pesos/kWh).
+        p A través del sistema diariamente y con resolución horaria, los generadores realizan ofertas de cantidad de energía disponible (oferta) y el precio a la que pretenden venderla (pesos/kWh), mientras que los comercializadores informan la cantidad de energía (demanda) que requieren comprar para satisfacer las necesidades de sus clientes y el precio máximo al que pretenden comprarla (pesos/kWh).
         p Esta información se tabula gráficamente y a través de un algoritmo matemático se define el precio de la energía para la hora del día en que se está haciendo la transacción. 
       .col-12.col-md-5.mb-5.mb-lg-0.d-none.d-sm-none.d-md-block(data-aos="fade-right")
         figure
@@ -159,7 +159,7 @@
     #t_8_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 8.3 Regulación y disposiciones legales
 
-    p.mb-5(data-aos="fade-right") La Comisión de Regulación de Energía y Gas (CREG) es la entidad encargada por el Gobierno Nacional para generar la reglamentación legal del funcionamiento del MEM. En general las regulaciones van orientadas a dos objetivos principales:
+    p.mb-5(data-aos="fade-right") La Comisión de Regulación de Energía y Gas (CREG) es la entidad encargada por el Gobierno Nacional para generar la reglamentación legal del funcionamiento del MEM. En general, las regulaciones van orientadas a dos objetivos principales:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-11
@@ -184,27 +184,27 @@
                 td Aspectos comerciales del MEM.
                 td 
                   p.mb-0 Resolución CREG 024 de 1995. 
-                  p http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1995-CRG95024
+                  p <a href="http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1995-CRG95024">http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1995-CRG95024</a>
               tr
                 td Límites de verticalidad y participación accionaria.
                 td 
                   p.mb-0 Resolución CREG 128 de 1996.
-                  p http://apolo.creg.gov.co/PUBLICAC.NSF/Indice01/Resoluci%C3%B3n-1996-CR128-96
+                  p <a href="http://apolo.creg.gov.co/PUBLICAC.NSF/Indice01/Resoluci%C3%B3n-1996-CR128-96">http://apolo.creg.gov.co/PUBLICAC.NSF/Indice01/Resoluci%C3%B3n-1996-CR128-96</a>
               tr
                 td Promoción de la libre competencia en el mercado mayorista.
                 td 
                   p.mb-0 Resolución CREG 020 de 1996.
-                  p http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1996-CRG20-96
+                  p <a href="http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1996-CRG20-96">http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-1996-CRG20-96</a>
               tr
                 td Registro de fronteras comerciales y contratos.
                 td 
                   p.mb-0 Resolución CREG 047 de 2000.
-                  p http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-2000-CREG047-2000
+                  p <a href="http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-2000-CREG047-2000">http://apolo.creg.gov.co/Publicac.nsf/Indice01/Resoluci%C3%B3n-2000-CREG047-2000</a>
               tr
                 td Compras de energía del mercado regulado.
                 td 
                   p.mb-0 Resolución CREG 114 de 2018.
-                  p http://apolo.creg.gov.co/Publicac.nsf/1c09d18d2d5ffb5b05256eee00709c02/e1aa2bca619f4f6e05258305007463d1?OpenDocument
+                  p <a href="http://apolo.creg.gov.co/Publicac.nsf/1c09d18d2d5ffb5b05256eee00709c02/e1aa2bca619f4f6e05258305007463d1?OpenDocument">http://apolo.creg.gov.co/Publicac.nsf/1c09d18d2d5ffb5b05256eee00709c02/e1aa2bca619f4f6e05258305007463d1?OpenDocument</a>
 
 </template>
 

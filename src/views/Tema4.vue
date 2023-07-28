@@ -7,7 +7,7 @@
         span 4
       h1 Impacto ambiental
 
-    p.mb-5(data-aos="fade-right") Cuando se habla de medio ambiente normalmente se hace referencia a todas las interacciones existentes entre los seres vivos, los ecosistemas del planeta Tierra, los recursos naturales disponibles, los seres humanos y los comportamientos sociales de la humanidad. 
+    p.mb-5(data-aos="fade-right") Cuando se habla de medio ambiente, normalmente se hace referencia a todas las interacciones existentes entre los seres vivos, los ecosistemas del planeta Tierra, los recursos naturales disponibles, los seres humanos y los comportamientos sociales de la humanidad. 
 
     .row.justify-content-center.mb-5.cajon-custom.color-secundario.p-4(data-aos="fade-left")
       .col-12.col-lg-11
@@ -23,13 +23,13 @@
               img(src='@/assets/curso/temas/tema4/tema4-01.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.col-lg-5.mb-4.mb-md-0
-            p Las actividades más comunes de los sectores económicos en nuestra sociedad y, que permiten mantener un nivel de calidad de vida para los habitantes del planeta son la producción de bienes y servicios, extracción de materias primas, transporte, generación de electricidad, construcción de vías, construcción de vivienda, entre otras.
+            p Las actividades más comunes de los sectores económicos en nuestra sociedad y, que permiten mantener un nivel de calidad de vida para los habitantes del planeta, son la producción de bienes y servicios, extracción de materias primas, transporte, generación de electricidad, construcción de vías, construcción de vivienda, entre otras.
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema4/tema4-02.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.col-lg-5.mb-4.mb-md-0
-            p Estas actividades generan impactos considerables en el medio ambiente de tal forma que se ha roto el equilibrio ambiental y los efectos sobre los ecosistemas y la salud de las personas es negativo.  
+            p Estas actividades generan impactos considerables en el medio ambiente, de tal forma que se ha roto el equilibrio ambiental y los efectos sobre los ecosistemas y la salud de las personas es negativo.  
             p Debido a lo anterior, muchos gobiernos y organizaciones han trabajado en desarrollar normativas y herramientas técnicas que permitan el desarrollo y operación de las actividades económicas sin afectar o logrando un mínimo de afectación al medio ambiente.
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
@@ -98,7 +98,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-6
-        p La extracción de las principales fuentes de energía y el proceso de generación de electricidad son actividades que más generan impacto ambiental y por lo tanto, existen normativas específicas para disminuir los efectos negativos sobre el medio ambiente. A continuación, se describen algunos de los impactos ambientales más significativos para la generación de energía eléctrica dependiendo de la tecnología:
+        p La extracción de las principales fuentes de energía y el proceso de generación de electricidad son actividades que más generan impacto ambiental y, por lo tanto, existen normativas específicas para disminuir los efectos negativos sobre el medio ambiente. A continuación, se describen algunos de los impactos ambientales más significativos para la generación de energía eléctrica dependiendo de la tecnología:
         ul.lista-ul.mb-2
           li.mb-0
             i.fas.fa-bolt(style="color:#AD84FF")
@@ -190,7 +190,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 1. Proceso de tamizado
             p Consiste en la caracterización del proyecto de forma integral, analizando las actividades a desarrollar durante todas las etapas (construcción, operación, cierre).
-            p Posteriormente se procede a realizar la identificación y determinación de cada uno de los impactos ambientales que el proyecto puede ocasionar.
+            p Posteriormente, se procede a realizar la identificación y determinación de cada uno de los impactos ambientales que el proyecto puede ocasionar.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/tema4-12.png', alt='')
@@ -220,7 +220,7 @@
         .row(titulo="5")
           .col-md-6.mb-4.mb-md-0
             h4 5. Informe de EIA
-            p Consiste en recopilar toda la información de las etapas anteriores y condensarla en un solo documento estructurado de tal forma que se expliquen las características del proyecto y los resultados del análisis en cada una de las etapas anteriores.
+            p Consiste en recopilar toda la información de las etapas anteriores y condensarla en un solo documento estructurado, de tal forma que se expliquen las características del proyecto y los resultados del análisis en cada una de las etapas anteriores.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/tema4-16.png', alt='')

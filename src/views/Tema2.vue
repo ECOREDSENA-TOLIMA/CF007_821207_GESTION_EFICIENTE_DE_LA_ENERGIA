@@ -7,7 +7,7 @@
         span 2
       h1 Energía no renovable
 
-    p.mb-5(data-aos="fade-right") Cuando se habla de fuentes de energía no renovables se refiere a los recursos energéticos que se encuentran en la naturaleza de manera limitada y no se pueden renovar, es decir, que en algún momento dejarán de estar disponibles para su extracción y uso. Los principales energéticos no renovables son:
+    p.mb-5(data-aos="fade-right") Cuando se habla de fuentes de energía no renovables, se refiere a los recursos energéticos que se encuentran en la naturaleza de manera limitada y no se pueden renovar, es decir, que en algún momento dejarán de estar disponibles para su extracción y uso. Los principales energéticos no renovables son:
 
     .row.mb-5.align-self-stretch.justify-content-center(data-aos="fade-down-right") 
       .col-sm-6.col-lg-2.col-md-4.mb-4.mb-lg-0
@@ -54,7 +54,7 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-07.png', alt='')
-        p La energía nuclear a nivel mundial es utilizada para la generación de electricidad en grandes centrales, ya que no emite gases de efecto invernadero; sin embargo, los residuos que genera son radioactivos y altamente contaminantes. Además, han ocurrido accidentes en donde como consecuencia grandes extensiones de tierra han tenido que ser evacuadas y no pueden volver a ser usadas. En Colombia no existen centrales de generación nuclear, pero, en las grandes potencias y en países como Brasil y Argentina existe este tipo de tecnología.
+        p La energía nuclear a nivel mundial es utilizada para la generación de electricidad en grandes centrales, ya que no emite gases de efecto invernadero; sin embargo, los residuos que genera son radioactivos y altamente contaminantes. Además, han ocurrido accidentes en donde como consecuencia grandes extensiones de tierra han tenido que ser evacuadas y no pueden volver a ser usadas. En Colombia no existen centrales de generación nuclear, pero, en las grandes potencias y en países como Brasil y Argentina, existe este tipo de tecnología.
 
     Separador
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -164,7 +164,7 @@
             i.fas.fa-play(style="color:#AD84FF")
             | #[strong Infraestructura]
 
-    p.mb-5(data-aos="fade-right") De acuerdo con la Agencia Nacional de Hidrocarburos ANH (2018), la infraestructura asociada a la industria del petróleo es denominada también cadena del petróleo y se compone de las siguientes actividades, agrupadas en dos áreas llamadas Upstream y Downstream. En la siguiente figura se resumen las actividades de la cadena del petróleo.
+    p.mb-5(data-aos="fade-right") De acuerdo con la Agencia Nacional de Hidrocarburos ANH (2018), la infraestructura asociada a la industria del petróleo es denominada también cadena del petróleo y se compone de las siguientes actividades, agrupadas en dos áreas llamadas #[i Upstream] y #[i Downstream]. En la siguiente figura se resumen las actividades de la cadena del petróleo.
 
 
     .row.mb-5.align-self-stretch.justify-content-center(data-aos="fade-down-right") 
@@ -230,20 +230,20 @@
                 td.text-center Consiste en el reconocimiento de las capas de rocas que existen en el subsuelo a través de técnicas de emisión de ondas de sonido con generadores de energía. Las ondas viajan y rebotan por las diferentes capas de la tierra de tal manera que son registradas por instrumentos denominados geófonos. El producto de esta actividad es un estudio sísmico.
               tr
                 td.text-center Exploración Perforatoria
-                td.text-center Posterior al estudio sísmico se procede a realizar en el terreno analizado perforaciones con taladros especiales de tal manera que sea posible llegar hasta la capa de roca donde posiblemente exista un depósito de hidrocarburos.
+                td.text-center Posterior al estudio sísmico se procede a realizar en el terreno analizado perforaciones con taladros especiales, de tal manera que sea posible llegar hasta la capa de roca donde posiblemente exista un depósito de hidrocarburos.
               tr
                 td.text-center Producción
                 td.text-center Una vez confirmada la existencia de hidrocarburos en las diferentes capas de roca, se procede a instalar varios equipos que permiten la extracción del petróleo de manera continua hasta la superficie.
               tr
                 th.text-center(rowspan="3" style="width:15%") #[i Downstream]
                 td.text-center(style="width:25%") Transporte
-                td.text-center Una vez el petróleo se extrae a la superficie, se procede a transportarlo desde el pozo hasta lo sitios de almacenamiento y procesamiento. El petróleo es conducido a través de tuberías (oleoductos), camiones o barcos.
+                td.text-center Una vez el petróleo se extrae a la superficie, se procede a transportarlo desde el pozo hasta los sitios de almacenamiento y procesamiento. El petróleo es conducido a través de tuberías (oleoductos), camiones o barcos.
               tr
                 td.text-center Refinación
                 td.text-center Es un proceso mediante el cual se le hace tratamiento térmico al petróleo para obtener sus derivados (gasolina, #[i diesel], gas licuado de petróleo, etc.). El lugar donde se realiza este proceso se llama Refinería.
               tr
                 td.text-center Comercialización
-                td.text-center Consiste en la venta y distribución del petróleo y sus derivados a los clientes o usuarios. Normalmente de utiliza la figura de distribuidores mayoristas y distribuidores minoristas.
+                td.text-center Consiste en la venta y distribución del petróleo y sus derivados a los clientes o usuarios. Normalmente se utiliza la figura de distribuidores mayoristas y distribuidores minoristas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-11.col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
@@ -275,12 +275,12 @@
           img(src='@/assets/curso/temas/tema2/tema2-15.png', alt='')
 
     h5 Reservas y producción de petróleo
-    p En la figura anterior se observan los datos correspondiente a tres variables:
+    p En la figura anterior se observan los datos correspondientes a tres variables:
     p.mb-0 Reservas probadas de Petróleo en millones de barriles (MBls).
     p.mb-0 Producción anual de petróleo en millones de barriles (MBls).
-    p Relación Reservas/Producción (R/P) en años. Esta cantidad permite determinar si se requieren más proyectos de exploración y producción. No se debe confundir con la cantidad de años en que se tendrá el recurso disponible. Normalmente se busca que este valor sea lo más alejado de uno (1).
+    p Relación Reservas/Producción (R/P) en años. Esta cantidad permite determinar si se requieren más proyectos de exploración y producción. No se debe confundir con la cantidad de años en que se tendrá el recurso disponible. Normalmente, se busca que este valor sea lo más alejado de uno (1).
 
-    p.mb-5(data-aos="fade-right") Como se puede observar, las reservas probadas de petróleo en Colombia han venido decreciendo si se comparan con los años 2010 a 2014. Sin embargo, actualmente se están ejecutando varios proyectos de exploración que pueden hacer cambiar esta tendencia. Adicionalmente la producción anual ha decrecido en el año 2020 pero esto se debe a los efectos de la pandemia en la economía nacional. El valor más alto de R/P se produjo en el año 2009, mientras que el más bajo se registró en el año 2016.
+    p.mb-5(data-aos="fade-right") Como se puede observar, las reservas probadas de petróleo en Colombia han venido decreciendo si se comparan con los años 2010 a 2014. Sin embargo, actualmente se están ejecutando varios proyectos de exploración que pueden hacer cambiar esta tendencia. Adicionalmente, la producción anual ha decrecido en el año 2020, pero esto se debe a los efectos de la pandemia en la economía nacional. El valor más alto de R/P se produjo en el año 2009, mientras que el más bajo se registró en el año 2016.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -330,7 +330,7 @@
         .cajon.text-center(style="background-color:#CFDDF1")
           strong.text-samll Industrial
         .cajon.tarjeta--azul.px-4.py-3
-          p.text-small.mb-0 El gas natural es utilizado en diferentes procesos y equipos en la industria tales como calderas de vapor, secadores, hornos, sistemas de cogeneración, entre otros.
+          p.text-small.mb-0 El gas natural es utilizado en diferentes procesos y equipos en la industria, tales como calderas de vapor, secadores, hornos, sistemas de cogeneración, entre otros.
 
     p.mb-5(data-aos="fade-right") Como complemento a la información se invita a que ahora observe el siguiente video.
 
@@ -410,7 +410,7 @@
             i.fas.fa-play(style="color:#AD84FF")
             | #[strong Cifras del sector]
 
-    p.mb-5(data-aos="fade-right") En las siguiente gráfica se muestran las cifras y las tendencias del sector de acuerdo con los datos estadísticos publicados por la Agencia Nacional de Hidrocarburos ANH (2021).
+    p.mb-5(data-aos="fade-right") En la siguiente gráfica se muestran las cifras y las tendencias del sector de acuerdo con los datos estadísticos publicados por la Agencia Nacional de Hidrocarburos ANH (2021).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
@@ -429,7 +429,7 @@
             | Producción anual comercializada de gas natural en giga pies cúbicos (Gpc).
           li.mb-0
             i.fas.fa-bolt(style="color:#AD84FF")
-            | Relación reservas/producción (r/p) en años. Esta cantidad permite determinar si se requieren más proyectos de exploración y producción. No se debe confundir con la cantidad de años en que se tendrá el recurso disponible. Normalmente se busca que este valor sea lo más alejado a (1).
+            | Relación reservas/producción (r/p) en años. Esta cantidad permite determinar si se requieren más proyectos de exploración y producción. No se debe confundir con la cantidad de años en que se tendrá el recurso disponible. Normalmente, se busca que este valor sea lo más alejado a (1).
         p Como se puede observar, las reservas actuales probadas de gas natural en Colombia han venido decreciendo si se comparan con los años 2010 a 2013; sin embargo, actualmente se están ejecutando varios proyectos de exploración que pueden hacer cambiar esta tendencia. Adicionalmente, la producción anual comercializada ha decrecido paulatinamente desde el año 2014 hasta el año 2020. El valor más alto de R/P se produjo en el año 2011, mientras que el más bajo se registró en el año 2020.
       .col-12.col-md-6
         figure
@@ -456,10 +456,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5 El carbón, ¿qué es? y ¿cómo se forma?
+                  h5 El carbón, ¿qué es?, y ¿cómo se forma?
                   p.text-small Paso a paso del origen del carbón y de qué está compuesto.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=zzxIwKPqOoo" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=QkWetBP42ik" target="_blank")
                     span Ver video
                     i.fas.fa-video 
 
@@ -516,7 +516,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/tema2-31.png', alt='')
         .col-md-7.col-lg-8.mb-4.mb-md-0
-          p Consiste en la construcción de la infraestructura (carreteras, edificaciones, maquinaria, recursos humanos, etc) necesaria para realizar la extracción, almacenamiento y transporte del carbón.
+          p Consiste en la construcción de la infraestructura (carreteras, edificaciones, maquinaria, recursos humanos, etc.) necesaria para realizar la extracción, almacenamiento y transporte del carbón.
       .row(titulo="Comercialización")
         .col-md-5.col-lg-4.mb-4.mb-md-0
           figure
@@ -542,7 +542,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Datos de la producción anual de carbón en Colombia</i>
+          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Datos de la producción anual de carbón en Colombia</i>
       .col-md-4.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema2/tema2-34.svg', alt='')
@@ -593,7 +593,7 @@
               img(src='@/assets/curso/temas/tema2/tema2-40.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            p Se puede observar que las eficiencias para cualquier tipo de energético en el transporte privado son muy bajas y no superan el 34%. Si se toma el caso de las camionetas, el energético con mayor eficiencia es el Gas Natural, por esta razón muchos usuarios han realizado la conversión de gasolina a Gas Natural. Para el caso de los automóviles las eficiencias con muy cercanas entre cada tipo de energético. Debido a que las eficiencias en los vehículos de pasajeros son muy bajas, se está dando impulso a la movilidad eléctrica.
+            p Se puede observar que las eficiencias para cualquier tipo de energético en el transporte privado son muy bajas y no superan el 34%. Si se toma el caso de las camionetas, el energético con mayor eficiencia es el Gas Natural, por esta razón muchos usuarios han realizado la conversión de gasolina a Gas Natural. Para el caso de los automóviles, las eficiencias con muy cercanas entre cada tipo de energético. Debido a que las eficiencias en los vehículos de pasajeros son muy bajas, se está dando impulso a la movilidad eléctrica.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-41.png', alt='')

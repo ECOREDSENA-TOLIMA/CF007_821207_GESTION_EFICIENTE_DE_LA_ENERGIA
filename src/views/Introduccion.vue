@@ -11,7 +11,7 @@
     
     .row.mb-5.cajon.tarjeta--azul.p-4(data-aos="fade-down-left")
       .col-12.col-md-9
-        p Apreciado aprendiz bienvenido a esta experiencia de aprendizaje en donde se presentará una serie de conceptos fundamentales del sector energético. A lo largo de este documento comenzará a familiarizarse con las principales fuentes de generación de energía, cómo se clasifican según su procedencia y disponibilidad, y cuáles son sus impactos ambientales. Además, aprenderá las generalidades de la cadena de producción de electricidad y la importancia del mercado eléctrico en Colombia. En el siguiente vídeo podrá consultar los principales temas desarrollados en este componente:
+        p Apreciado aprendiz bienvenido a esta experiencia de aprendizaje en donde se presentará una serie de conceptos fundamentales del sector energético. A lo largo de este documento comenzará a familiarizarse con las principales fuentes de generación de energía, cómo se clasifican, según su procedencia y disponibilidad, y cuáles son sus impactos ambientales. Además, aprenderá las generalidades de la cadena de producción de electricidad y la importancia del mercado eléctrico en Colombia. En el siguiente vídeo podrá consultar los principales temas desarrollados en este componente:
       .col-12.col-md-3.col-lg-2
         figure
           img(src='@/assets/curso/intro.svg', alt='')

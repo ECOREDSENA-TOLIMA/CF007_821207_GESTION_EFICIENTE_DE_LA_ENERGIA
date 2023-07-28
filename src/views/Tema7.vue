@@ -32,7 +32,7 @@
               
           .row(numero="2" titulo="Alcantarillado")
             .col-12.mb-4.mb-md-0
-              p.text-small Se define como la recolección de residuos líquidos a través de las tuberías y conductos destinados para tal fin. Las actividades complementarias son la facturación, el transporte, tratamiento de residuos y disposición final de dichos residuos. Por lo general este servicio se factura en el mismo recibo del servicio de acueducto. La unidad de consumo para este servicio es el metro cúbico m3.
+              p.text-small Se define como la recolección de residuos líquidos a través de las tuberías y conductos destinados para tal fin. Las actividades complementarias son la facturación, el transporte, tratamiento de residuos y disposición final de dichos residuos. Por lo general, este servicio se factura en el mismo recibo del servicio de acueducto. La unidad de consumo para este servicio es el metro cúbico m3.
 
           .row(numero="3" titulo="Aseo")
             .col-12.mb-4.mb-md-0
@@ -129,7 +129,7 @@
     #t_7_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 7.4 Vigilancia de los servicios públicos domiciliarios
 
-    p.mb-5(data-aos="fade-right") El Gobierno Nacional a través de la Ley 142 de 1994 crea la entidad denominada Superintendencia de Servicios Públicos Domiciliarios (Superservicios) adscrita al Departamento Nacional de Planeación (DNP), con el fin de realizar la inspección, vigilancia y control de las empresas que prestan los servicios públicos domiciliarios. Otra importante función que realiza la Superservicios es la protección de los derechos y promoción de los deberes de los usuarios. A continuación, se presenta con mayor detalle cada función:
+    p.mb-5(data-aos="fade-right") El Gobierno Nacional, a través de la Ley 142 de 1994 crea, la entidad denominada Superintendencia de Servicios Públicos Domiciliarios (Superservicios) adscrita al Departamento Nacional de Planeación (DNP), con el fin de realizar la inspección, vigilancia y control de las empresas que prestan los servicios públicos domiciliarios. Otra importante función que realiza la Superservicios es la protección de los derechos y promoción de los deberes de los usuarios. A continuación, se presenta con mayor detalle cada función:
 
     .row.justify-content-center.mb-5
       .col-12.col-md-7.mb-5.mb-lg-0(data-aos="fade-left")
@@ -179,7 +179,7 @@
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0
                           h5 Inspección
-                          p.text-small.mb-0 Atiende las consultas y orienta para la presentación de peticiones, quejas y reclamos a las empresas prestadoras del servicio. Adicionalmente resuelve (en segunda instancia) las reclamaciones de los usuarios y sanciona a las empresas que no dan respuesta a tiempo a las reclamaciones.
+                          p.text-small.mb-0 Atiende las consultas y orienta para la presentación de peticiones, quejas y reclamos a las empresas prestadoras del servicio. Adicionalmente, resuelve (en segunda instancia) las reclamaciones de los usuarios y sanciona a las empresas que no dan respuesta a tiempo a las reclamaciones.
           .col-12.mb-5.mb-lg-0(data-aos="fade-left")
             .row.justify-content-center.align-items-center
               .col-12.mb-4(data-aos="fade-left")

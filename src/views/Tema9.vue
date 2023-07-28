@@ -101,7 +101,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12(data-aos="fade-left")
         .cajon.color-acento-botones.p-4
-          p Como se puede observar en Colombia la mayor capacidad instalada se encuentra en las plantas hidroeléctricas, seguido de las centrales térmicas, en menor medida se encuentran las plantas de biomasa, centrales solares y eólicas. A pesar de estar en el último lugar, se espera en los próximos años un crecimiento exponencial en la capacidad disponible de las centrales solares y eólicas.
+          p Como se puede observar en Colombia, la mayor capacidad instalada se encuentra en las plantas hidroeléctricas, seguido de las centrales térmicas, en menor medida se encuentran las plantas de biomasa, centrales solares y eólicas. A pesar de estar en el último lugar, se espera en los próximos años un crecimiento exponencial en la capacidad disponible de las centrales solares y eólicas.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12(data-aos="fade-right")
@@ -110,7 +110,7 @@
             i.fas.fa-play(style="color:#AD84FF")
             | #[strong Generación de electricidad]
 
-    p.mb-4(data-aos="fade-right") A diferencia de la capacidad instalada, la generación hace referencia a cuánta electricidad produce cada planta generadora, lo cual dependerá de las condiciones ambientales en especial la hidrología y el clima. En la siguiente tabla se muestra la generación de electricidad en Colombia en el año 2020 de acuerdo con los datos suministrados por XM (2020):
+    p.mb-4(data-aos="fade-right") A diferencia de la capacidad instalada, la generación hace referencia a cuánta electricidad produce cada planta generadora, lo cual dependerá de las condiciones ambientales, en especial la hidrología y el clima. En la siguiente tabla se muestra la generación de electricidad en Colombia en el año 2020, de acuerdo con los datos suministrados por XM (2020):
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-6(data-aos="fade-left")
@@ -163,9 +163,9 @@
     #t_9_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 9.2 Transmisión
 
-    p.mb-4(data-aos="fade-right") Esta actividad consiste en el transporte de energía eléctrica a través del conjunto de líneas, con sus correspondientes módulos de conexión (Sistema de Transmisión Nacional – STN), que operan a tensiones iguales o superiores a 220 kV, o a través de redes regionales o interregionales de transmisión a tensiones inferiores. En la siguiente tabla de acuerdo con la información suministrada por PARATEC (2021) se muestra la longitud total de líneas de transmisión en el país a junio de 2021 y la distribución de acuerdo con su nivel de tensión.
+    p.mb-4(data-aos="fade-right") Esta actividad consiste en el transporte de energía eléctrica a través del conjunto de líneas, con sus correspondientes módulos de conexión (Sistema de Transmisión Nacional – STN), que operan a tensiones iguales o superiores a 220 kV, o a través de redes regionales o interregionales de transmisión a tensiones inferiores. En la siguiente tabla, de acuerdo con la información suministrada por PARATEC (2021) se muestra la longitud total de líneas de transmisión en el país a junio de 2021 y la distribución de acuerdo con su nivel de tensión.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
           p.titulo.pb-0.mb-0 <b>Tabla 8. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
@@ -207,8 +207,11 @@
                 th.text-center 28.187,23
                 th.text-center 100%
       .col-12.col-md-4(data-aos="fade-left")
-        p La longitud mayor en líneas de transmisión para el Sistema de Transmisión Nacional se tiene para las líneas a 230 kV, seguidos de las líneas a 115 kV.
-        p Algunas de las líneas de transmisión se utilizan para hacer el intercambio internacional de electricidad con Ecuador.
+        .row.justify-content-center.align-items-center
+          .col-12
+            .cajon.tarjeta--azul.p-3
+              p La longitud mayor en líneas de transmisión para el Sistema de Transmisión Nacional se tiene para las líneas a 230 kV, seguidos de las líneas a 115 kV.
+              p Algunas de las líneas de transmisión se utilizan para hacer el intercambio internacional de electricidad con Ecuador.
 
     p.mb-4(data-aos="fade-right") Desde el transporte de energía se tiene el paso de la comercialización con el usuario y por supuesto, la regulación vigente.
 
@@ -231,7 +234,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5 Te invitamos a revisar los videos, para entender este mercado:
-                  p.text-small En el Codensa muestra de manera general de qué se trata la comercialización de energía.
+                  p.text-small Enel Codensa muestra de manera general de qué se trata la comercialización de energía.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/LeGd8DR0ymM" target="_blank")
                     span Ver video
@@ -263,7 +266,7 @@
 
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
-        p las empresas comercializadoras tienen la opción de comprar la energía en la bolsa y a través de la suscripción de contratos bilaterales.
+        p Las empresas comercializadoras tienen la opción de comprar la energía en la bolsa y a través de la suscripción de contratos bilaterales.
         p En la siguiente tabla se muestran los precios promedio de compra de energía en la bolsa y los precios de los contratos.
         p Se debe tener en cuenta que estos valores corresponden solo al componente de generación (G) el cual es el único que se puede negociar en el mercado.
       .col-12(data-aos="fade-left")
@@ -355,7 +358,7 @@
                 td.text-center 332,56
 
     p.mb-3(data-aos="fade-right") De acuerdo con los valores mostrados, en los meses de enero del 2020 hasta junio del mismo año el precio de bolsa de la generación (G) es mayor que la de los contratos. Sin embargo, en los meses posteriores el precio de bolsa es menor que el precio de los contratos.
-    p.mb-5(data-aos="fade-right") Como se puede observar los precios de la bolsa fluctúan constantemente ya que dependen de las condiciones climáticas y las condiciones sociales del entorno.Muchas empresas que consumen grandes cantidades de electricidad prefieren comprar la energía a un valor fijo y en un periodo de varios años, para garantizar que se cumplan sus presupuestos de gastos en energía sin depender de factores externos. Para tal fin, existen los contratos bilaterales.
+    p.mb-5(data-aos="fade-right") Como se puede observar, los precios de la bolsa fluctúan constantemente ya que, dependen de las condiciones climáticas y las condiciones sociales del entorno. Muchas empresas que consumen grandes cantidades de electricidad prefieren comprar la energía a un valor fijo y en un periodo de varios años, para garantizar que se cumplan sus presupuestos de gastos en energía sin depender de factores externos. Para tal fin, existen los contratos bilaterales.
 
 
     .tarjeta--container.row.mb-5

@@ -417,11 +417,12 @@ export default {
     {
       referencia:
         'Agencia Nacional de Hidrocarburos ANH (2021). Datos y estadísticas. ',
-      link: 'https://www.anh.gov.co/datos-estadisticas',
+      link:
+        'https://www.anh.gov.co/es/operaciones-y-regal%C3%ADas/datos-y-estadisticas/',
     },
     {
       referencia:
-        'Cengel, Y. & Boles, M. (2015). Termodinámica (Octava ed.). McGraw-Hill.',
+        '<em>Cengel, Y. & Boles, M. (2015)</em>. Termodinámica (Octava ed.). McGraw-Hill.',
       link: '',
     },
     {
@@ -473,7 +474,7 @@ export default {
     },
     {
       referencia: 'PARATEC. (2021). Parámetros técnicos del SIN. XM. ',
-      link: 'http://paratec.xm.com.co/paratec/SitePages/default.aspx',
+      link: 'https://paratec.xm.com.co/paratec/SitePages/Default.aspx',
     },
     {
       referencia:
@@ -484,13 +485,11 @@ export default {
     {
       referencia:
         'Superintendencia de Servicios Públicos. (2015). Superservicios para todos. Imprenta Nacional de Colombia. ',
-      link:
-        'https://www.superservicios.gov.co/sites/default/archivos/SSPD%20Publicaciones/Publicaciones/2018/Oct/superservicios_para_todos.pdf',
+      link: 'https://www.superservicios.gov.co/',
     },
     {
       referencia: 'TGI. (2021). ¿Cómo llega el gas a mi casa o negocio? ',
-      link:
-        'https://www.tgi.com.co/industria-del-gas-natural/como-llega-el-gas-a-mi-casa-o-negocio',
+      link: 'https://www.tgi.com.co/nuestro-negocio/mercado',
     },
     {
       referencia:
@@ -502,7 +501,7 @@ export default {
       referencia:
         'Unidad de Planeación Minero-Energética. (2019). Primer balance de energía útil para Colombia. UPME ',
       link:
-        'https://www1.upme.gov.co/Hemeroteca/Paginas/estudio-primer-balance-energia-util-para-Colombia.aspx',
+        'https://www1.upme.gov.co/DemandayEficiencia/Documents/Balance_energia_util/BEU-Residencial.pdf',
     },
     {
       referencia:

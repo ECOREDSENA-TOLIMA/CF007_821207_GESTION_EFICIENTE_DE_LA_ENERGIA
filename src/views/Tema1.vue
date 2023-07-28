@@ -10,7 +10,7 @@
     .row.mb-5(data-aos="fade-down-left")
       .col-12.col-md-9.col-lg-10
         p En la mayoría de las actividades que se realizan en la vida diaria se encuentra presente la termodinámica, por ejemplo, el cuerpo necesita un suministro constante de energía para mantenerse vivo. Esta energía se obtiene de las calorías que se consumen en los alimentos y a partir de la transformación de energía en las células se emite calor corporal del ambiente. 
-        p Entre los científicos más destacados en esta rama de la física se encuentran: Sadi Carnot, William Rankine, Rudolph Clausius, Lord Kelvin (antes William Thomson), James Prescott Joule. 
+        p Entre los científicos más destacados en esta rama de la física se encuentran: #[i Sadi Carnot, William Rankine, Rudolph Clausius, Lord Kelvin (antes William Thomson), James Prescott Joule.] 
       .col-12.col-md-3.col-lg-2 
         figure
           img(src='@/assets/curso/temas/tema1/tema1-01.svg', alt='')
@@ -78,20 +78,20 @@
             img(src='@/assets/curso/temas/tema1/tema1-08.png', alt='')
       .row(titulo="Aplicación")
         .col-md-7.mb-4.mb-md-0
-          p En aplicaciones de mayor escala la termodinámica desempeña un papel importante en el análisis del comportamiento de motores, plantas de generación de energía eléctrica, sistemas de refrigeración, así como en procesos industriales y diseños arquitectónicos.  
+          p En aplicaciones de mayor escala, la termodinámica desempeña un papel importante en el análisis del comportamiento de motores, plantas de generación de energía eléctrica, sistemas de refrigeración, así como en procesos industriales y diseños arquitectónicos.  
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/tema1-09.png', alt='')
       .row(titulo="Definición")
         .col-md-7.mb-4.mb-md-0
           p Se define como la ciencia que estudia la energía y sus transformaciones a nivel macroscópico. 
-          p La palabra termodinámica está compuesta por los términos “termo”, proveniente del griego therme que significa calor y dinámica, del griego dynamis que significa fuerza o potencia. Es decir, escribe los primeros esfuerzos por convertir calor en potencia.  
+          p La palabra termodinámica está compuesta por los términos #[i “termo”], proveniente del griego #[i therme] que significa calor y dinámica, del griego #[i dynamis] que significa fuerza o potencia. Es decir, escribe los primeros esfuerzos por convertir calor en potencia.  
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/tema1-10.png', alt='')
       .row(titulo="Alcance")
         .col-md-7.mb-4.mb-md-0
-          p En la actualidad se considera como un área con un mayor alcance, que estudia la transferencia de calor (entre un sistema y el medio en el que se encuentra), la conversión de la energía y su aprovechamiento para realizar un trabajo (Çengel & Boles, 2015).  
+          p En la actualidad se considera como un área con un mayor alcance, que estudia la transferencia de calor (entre un sistema y el medio en el que se encuentra), la conversión de la energía y su aprovechamiento para realizar un trabajo #[i (Çengel & Boles, 2015)].  
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/tema1-11.png', alt='')
@@ -246,7 +246,7 @@
       h2 1.3 Ley cero de la termodinámica
 
     p.mb-3(data-aos="fade-right") Esta ley permite establecer el equilibrio térmico, se invita a visualizar cómo ocurre, explorando la didáctica.
-    p.mb-5(data-aos="fade-right") La ley cero de la termodinámica establece que “si dos cuerpos se encuentran en equilibrio térmico con un tercero, están en equilibrio térmico entre sí” (Çengel y Boles, 2015, p.17).
+    p.mb-5(data-aos="fade-right") La ley cero de la termodinámica establece que “si dos cuerpos se encuentran en equilibrio térmico con un tercero, están en equilibrio térmico entre sí” #[i (Çengel y Boles, 2015, p.17)].
     .row.mb-5.align-self-stretch.justify-content-center
       .col-11.col-md-9.col-lg-8(data-aos="fade-down-right")
         figure
@@ -291,10 +291,10 @@
         .bloque-texto-d.color-acento-contenido.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular La energía no se puede crear ni destruir durante un proceso; solo puede cambiar de forma.
+            h3 La energía no se puede crear ni destruir durante un proceso; solo puede cambiar de forma.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            span (Cengel & Boles, 2015, p.70).
+            span #[em (Cengel & Boles, 2015, p.70)].
       .col-md-6.mb-5.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/tema1-22.svg', alt='') 
