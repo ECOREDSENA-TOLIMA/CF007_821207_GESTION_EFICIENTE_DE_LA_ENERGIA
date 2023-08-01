@@ -9,7 +9,23 @@
 
     .row.mb-5(data-aos="fade-down-left")
       .col-12.col-md-9.col-lg-10
-        p En la mayoría de las actividades que se realizan en la vida diaria se encuentra presente la termodinámica, por ejemplo, el cuerpo necesita un suministro constante de energía para mantenerse vivo. Esta energía se obtiene de las calorías que se consumen en los alimentos y a partir de la transformación de energía en las células se emite calor corporal del ambiente. 
+        p.mb-3 En la mayoría de las actividades que se realizan en la vida diaria se encuentra presente la termodinámica, por ejemplo, el cuerpo necesita un suministro constante de energía para mantenerse vivo. Esta energía se obtiene de las calorías que se consumen en los alimentos y a partir de la transformación de energía en las células se emite calor corporal del ambiente. 
+
+        .row.justify-content-center.align-items-center.mb-3
+          .col-md-11.col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
+            .tarjeta.color-primario.p-3
+              .row.justify-content-around.align-items-center
+                .col-3.col-sm-2.col-lg-1
+                  img(src="@/assets/curso/temas/video.svg")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      p.text-small En el siguiente enlace encuentra un video con una detallada explicación de la termodinámica.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MyxOOxFVHsY" target="_blank")
+                        span Ver video
+                        i.fas.fa-video
+
         p Entre los científicos más destacados en esta rama de la física se encuentran: #[i Sadi Carnot, William Rankine, Rudolph Clausius, Lord Kelvin (antes William Thomson), James Prescott Joule.] 
       .col-12.col-md-3.col-lg-2 
         figure
@@ -237,7 +253,7 @@
                   h4 Principios básicos de la termodinámica
                   p.text-small Se integra de qué trata cada principio que a la vez gobierna la termodinámica.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_2_Conceptos_básicos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_2_Conceptos_basicos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -313,7 +329,7 @@
                   h4 Primera ley de la termodinámica
                   p.text-small Se establece la relación entre el trabajo, el calor y la energía interna de un sistema relacionados con la primera ley de la termodinámica, como la energía, algunas de sus principales formas y cómo se transforma.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_4_La_primera_ley_de_la_termodinámica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_4_La_primera_ley_de_la_termodinamica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -336,7 +352,7 @@
                   h4 Segunda ley de la termodinámica
                   p.text-small Se presentan en primer lugar algunos conceptos relacionados con la segunda ley, como depósitos, máquinas térmicas, entre otros, en los postulados de la segunda ley se presenta el ciclo de Carnot como ciclo ideal, y algunas máquinas como refrigeradores y bombas de calor.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_5_La_segunda_ley_de_la_termodinámica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_5_La_segunda_ley_de_la_termodinamica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -360,7 +376,7 @@
                   h4 Principales ciclos de la termodinámica
                   p.text-small Descubra cuáles son los principales ciclos que se estudian en termodinámica a partir de las distintas fuentes de energía.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_6_Ciclos_termodinámicos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_6_Ciclos_termodinamicos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

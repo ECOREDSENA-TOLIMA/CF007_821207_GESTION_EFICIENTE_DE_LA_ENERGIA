@@ -65,7 +65,7 @@
                   h4 Energía solar térmica
                   p.text-small Descripción general de la energía solar, usos, forma de instalaciones y aprovechamiento en la vida cotidiana.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_A_Energía_solar_térmica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_A_Energia_solar_termica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-12.col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
@@ -79,7 +79,7 @@
                   h4 Energía fotovoltaica
                   p.text-small Descripción general de la energía fotovoltaica, usos, forma de instalaciones y aprovechamiento en las industrias.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_B_Energía_solar_fotovoltaica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_B_Energia_solar_fotovoltaica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -110,7 +110,7 @@
                   h4 Energía eólica
                   p.text-small Descubra las principales características de esta energía, su aprovechamiento y las principales tecnologías y aplicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_C_Energía_eólica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_C_Energia_eolica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-12.col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
@@ -154,7 +154,7 @@
                   h4 Energía hidroeléctrica
                   p.text-small Descubra más sobre la tecnología utilizada para el aprovechamiento de esta energía y sus aplicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_D_Energía_hidroeléctrica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_D_Energia_hidroelectrica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -184,7 +184,7 @@
                   h4 Energía geotérmica
                   p.text-small Descubra más sobre la tecnología utilizada para el aprovechamiento de esta energía y sus aplicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_E_Energía_geotérmica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_E_Energia_geotermica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-md-11.col-12.mb-4(data-aos="fade-left")
@@ -231,7 +231,7 @@
                   h4 Energía oceánica
                   p.text-small Detalle el aprovechamiento de las diferentes energías provenientes del océano y sus aplicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_F_Energía_oceánica.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_F_Energia_oceanica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -262,7 +262,7 @@
                   h4 Energía de la biomasa
                   p.text-small Se revisan los tipos de biomasa aprovechables, las tecnologías y sus aplicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_G_Energía_de_la_Biomasa.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_G_Energia_de_la_Biomasa.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -292,7 +292,7 @@
                   h4 Hidrógeno verde
                   p.text-small Aprenda más sobre la utilización de este elemento para la obtención de energía y sus usos en diferentes sectores.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_H_Hidrógeno_verde.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_H_Hidrogeno_verde.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

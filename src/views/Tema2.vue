@@ -74,7 +74,7 @@
             i.fas.fa-play(style="color:#AD84FF")
             | #[strong Aplicaciones]
     p.mb-3(data-aos="fade-down-right") El petróleo ha sido uno de los protagonistas fundamentales desde el siglo XIX en el desarrollo de los procesos industriales, el transporte y la generación de electricidad; además, sus derivados tienen gran cantidad de aplicaciones y sirven de insumo para muchos de los productos que usamos a diario. 
-    p.mb-5(data-aos="fade-down-right") Aplicaciones industriales. En la siguiente tabla se muestran algunas de las aplicaciones industriales de los derivados del petróleo
+    p.mb-5(data-aos="fade-down-right") Aplicaciones industriales. En la siguiente tabla se muestran algunas de las aplicaciones industriales de los derivados del petróleo.
     
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
