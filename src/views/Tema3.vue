@@ -213,7 +213,7 @@
       .col-md-8.mb-4.mb-md-0
         p Es la energía obtenida del océano; el mar provee formas de energía que se pueden explotar de las siguientes fuentes:
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Fuentes de producción de energía marina</i>
+          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Fuentes de producción de energía marina.</i>
         figure 
           img(src='@/assets/curso/temas/tema3/tema3-08.svg', alt='')
 
@@ -307,7 +307,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Distribución mundial de energías renovables 2020</i>
+          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Distribución mundial de energías renovables 2020.</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema3/tema3-11.svg', alt='')
@@ -318,7 +318,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Distribución Colombia de energías renovables 2020</i>
+          p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Distribución Colombia de energías renovables 2020.</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema3/tema3-12.svg', alt='')

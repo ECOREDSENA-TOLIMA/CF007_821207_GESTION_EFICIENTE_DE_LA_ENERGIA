@@ -85,8 +85,10 @@
       .col-12.col-md-6.py-3
         h4 Soluciones tecnológicas
         p Según el IPCC (2007), la sociedad puede adecuarse al cambio climático y sus impactos por medio de estrategias de adaptación, mitigación y geoingeniería.
-        p Las estrategias de adaptación son necesarias porque el cambio climático natural es impredecible y no puede evitarse y ante estas circunstancias es un hecho que las acciones preventivas son más efectivas y menos costosas que las correctivas. Un ejemplo de estrategia de adaptación al aumento del nivel del mar se muestra en la siguiente imagen:
+        p Las estrategias de adaptación son necesarias porque el cambio climático natural es impredecible y no puede evitarse y ante estas circunstancias es un hecho que las acciones preventivas son más efectivas y menos costosas que las correctivas. Un ejemplo de estrategia de adaptación al aumento del nivel del mar se muestra en la siguiente figura:
       .col-12.col-md-6
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 8. </b> <i>Estrategia de adaptación al aumento del nivel del mar.</i>
         figure
           img(src='@/assets/curso/temas/tema5/tema5-07.png', alt='')
         //p.text-center.text-small Estrategias de adaptación a aumento del nivel del mar (Mark Masli, Cambio climático, 2014)

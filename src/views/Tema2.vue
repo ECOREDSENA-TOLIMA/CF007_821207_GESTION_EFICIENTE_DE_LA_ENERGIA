@@ -542,7 +542,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Datos de la producción anual de carbón en Colombia</i>
+          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Datos de la producción anual de carbón en Colombia.</i>
       .col-md-4.col-12(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema2/tema2-34.svg', alt='')

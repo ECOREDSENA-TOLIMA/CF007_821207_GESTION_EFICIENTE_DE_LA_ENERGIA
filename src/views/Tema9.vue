@@ -390,7 +390,7 @@
           figure
             img(src='@/assets/curso/temas/tema9/tema9-12.svg', alt='')
 
-    p.mb-5(data-aos="fade-right") La ventaja de pertenecer a la categoría de usuario no regulado, es que por lo general (salvo en casos muy especiales) se obtiene un mejor precio por el valor unitario del kilovatio hora ($/kWh), permitiendo que se pague menos dinero por el consumo total facturado. Lo anterior se refleja en la siguiente figura donde se muestra el comportamiento del valor unitario promedio en el país durante los años 2016 a 2018 por departamento:
+    p.mb-5(data-aos="fade-right") La ventaja de pertenecer a la categoría de usuario no regulado, es que por lo general (salvo en casos muy especiales) se obtiene un mejor precio por el valor unitario del kilovatio hora ($/kWh), permitiendo que se pague menos dinero por el consumo total facturado. Lo anterior se refleja en la siguiente tabla donde se muestra el comportamiento del valor unitario promedio en el país durante los años 2016 a 2018 por departamento:
 
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")

@@ -273,7 +273,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Ejemplo Ley Cero de la Termodinámica] 
+          p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Ejemplo Ley Cero de la Termodinámica.] 
         figure
           img(src='@/assets/curso/temas/tema1/tema1-19.svg', alt='')  
 
@@ -283,7 +283,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Dirección del flujo de calor] 
+          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Dirección del flujo de calor.] 
         figure
           img(src='@/assets/curso/temas/tema1/tema1-20.svg', alt='') 
 
@@ -292,7 +292,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Representación de la Ley Cero de la Termodinámica] 
+          p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Representación de la Ley Cero de la Termodinámica.] 
         figure
           img(src='@/assets/curso/temas/tema1/tema1-21.svg', alt='') 
 
