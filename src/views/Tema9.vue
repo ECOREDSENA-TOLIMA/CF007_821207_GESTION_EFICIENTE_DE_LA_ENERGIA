@@ -405,7 +405,7 @@
     #t_9_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 9.4 Consumo nacional por tipo de usuario
 
-    p.mb-5(data-aos="fade-right") El consumo de energía eléctrica determina la participación de los usuarios en el mercado y las transacciones realizadas en el sistema eléctrico nacional. En la siguiente figura se describe el porcentaje de participación por tipo de usuario en el año 2020, de acuerdo con los datos suministrados por XM (2020).
+    p.mb-5(data-aos="fade-right") El consumo de energía eléctrica determina la participación de los usuarios en el mercado y las transacciones realizadas en el sistema eléctrico nacional. En la siguiente tabla se describe el porcentaje de participación por tipo de usuario en el año 2020, de acuerdo con los datos suministrados por XM (2020).
 
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")

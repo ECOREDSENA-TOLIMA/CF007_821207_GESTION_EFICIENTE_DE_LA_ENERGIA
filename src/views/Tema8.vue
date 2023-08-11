@@ -36,6 +36,8 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 8. </b> <i>Agentes del mercado que participan en el MEM.</i>
         figure
           img(src='@/assets/curso/temas/tema8/tema8-02.svg', alt='')
 
