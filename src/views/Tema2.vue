@@ -583,20 +583,103 @@
           .col-md-6.mb-4.mb-md-0
             p Se puede observar que para el calentamiento de agua en el sector residencial, el calentador de paso eléctrico tiene mayor eficiencia que los demás. Sin embargo, debido a que en muchos lugares y en los estratos medios y altos de la economía el valor unitario de la electricidad es más costoso que el del gas natural, se procura utilizar calentadores de paso a Gas para esta aplicación. El equipo menos eficiente para calentar agua es el calentador de acumulación eléctrico.
           .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/tema2-39.png', alt='')
+            .titulo-sexto.color-acento-botones.mb-1
+              p.titulo.pb-0.mb-0 <b>Tabla 3. </b> <i>Calentamiento de agua en sector residencial</i>
+            .tabla-a.color-acento-botones.mb-4.tabla-t2
+              table(style="width:auto")
+                caption Unidad de Planeación Minero Energética UPME. (2019). Primer balance de energía útil para Colombia. Recuperado el 10 de agosto de 2021, de https://www1.upme.gov.co/Hemeroteca/Paginas/estudio-primer-balance-energia-util-para-Colombia.aspx
+                thead
+                  tr.text-small
+                    th.text-center Equipo
+                    th.text-center Energético
+                    th.text-center Factor de Eficiencia Actual [%]
+                tbody
+                  tr.text-small.text-center
+                    td Calentador de paso a Gas
+                    td Gas Natural
+                    td 83 %
+                  tr.text-small.text-center
+                    td Calentador de paso a Gas
+                    td Gas Licuado de Petróleo GLP
+                    td 83 %
+                  tr.text-small.text-center
+                    td Calentador de paso eléctrico
+                    td Electricidad
+                    td 90 %
+                  tr.text-small.text-center
+                    td Calentador de acumulación eléctrico
+                    td Electricidad
+                    td 70 %
+            //- figure
+            //-   img(src='@/assets/curso/temas/tema2/tema2-39.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             p Se puede observar que para el uso del calor directo para cocción, la opción con mayor eficiencia es la estufa eléctrica, sin embargo, debido a que en muchos lugares y en los estratos medios y altos de la economía el valor unitario de la electricidad es más costoso que el del gas natural, se procura utilizar estufas alimentadas por Gas Natural. A pesar de que el energético menos eficiente para cocción de alimentos es la leña, su uso en Colombia aún es considerable debido a que existen zonas apartadas que no cuentan con acceso a electricidad, gas natural o GLP.
           .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/tema2-40.png', alt='')
+            .titulo-sexto.color-acento-botones.mb-1
+              p.titulo.pb-0.mb-0 <b>Tabla 4. </b> <i>Calor directo para cocción en sector residencial</i>
+            .tabla-a.color-acento-botones.mb-4.tabla-t2
+              table(style="width:auto")
+                caption Unidad de Planeación Minero Energética UPME. (2019). Primer balance de energía útil para Colombia. Recuperado el 10 de agosto de 2021, de https://www1.upme.gov.co/Hemeroteca/Paginas/estudio-primer-balance-energia-util-para-Colombia.aspx
+                thead
+                  tr.text-small.text-center
+                    th Equipo
+                    th Energético
+                    th Factor de Eficiencia Actual [%]
+                tbody
+                  tr.text-small.text-center
+                    td(rowspan="5") Estufa
+                    td Leña
+                    td 15 %
+                  tr.text-small.text-center
+                    td Carbón Leña (estufa eficiente)
+                    td 30 %
+                  tr.text-small.text-center
+                    td Gas Natural
+                    td 57 %
+                  tr.text-small.text-center
+                    td Gas Licuado de Petróleo (GLP)
+                    td 59 %
+                  tr.text-small.text-center
+                    td Electricidad
+                    td 70 %
+            //- figure
+            //-   img(src='@/assets/curso/temas/tema2/tema2-40.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             p Se puede observar que las eficiencias para cualquier tipo de energético en el transporte privado son muy bajas y no superan el 34%. Si se toma el caso de las camionetas, el energético con mayor eficiencia es el Gas Natural, por esta razón muchos usuarios han realizado la conversión de gasolina a Gas Natural. Para el caso de los automóviles, las eficiencias con muy cercanas entre cada tipo de energético. Debido a que las eficiencias en los vehículos de pasajeros son muy bajas, se está dando impulso a la movilidad eléctrica.
           .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/tema2-41.png', alt='')
+            .titulo-sexto.color-acento-botones.mb-1
+              p.titulo.pb-0.mb-0 <b>Tabla 5. </b> <i>Vehículos privados de pasajeros</i>
+            .tabla-a.color-acento-botones.mb-4.tabla-t2
+              table(style="width:auto")
+                caption Unidad de Planeación Minero Energética UPME. (2019). Primer balance de energía útil para Colombia. Recuperado el 10 de agosto de 2021, de https://www1.upme.gov.co/Hemeroteca/Paginas/estudio-primer-balance-energia-util-para-Colombia.aspx
+                thead
+                  tr.text-small.text-center
+                    th(rowspan="2") Energético
+                    th(colspan="3") Eficiencia Promedio Nivel Nacional (%)
+                  tr.text-small.text-center
+                    th Automóvil
+                    th Camioneta
+                    th Motocicleta
+                tbody
+                  tr.text-small.text-center
+                    td #[i Diesel]
+                    td 27 %
+                    td 23 %
+                    td 25 %
+                  tr.text-small.text-center
+                    td Gasolina
+                    td 25 %
+                    td 21 %
+                    td 23 %
+                  tr.text-small.text-center
+                    td Gas Natural
+                    td 26 %
+                    td 34 %
+                    td 8 %
+            //- figure
+            //-   img(src='@/assets/curso/temas/tema2/tema2-41.png', alt='')
 
 
     

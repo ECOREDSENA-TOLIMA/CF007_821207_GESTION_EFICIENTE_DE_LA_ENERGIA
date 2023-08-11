@@ -69,7 +69,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 4. </b> <i>Características principales</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 7. </b> <i>Características principales</i>
         .tabla-a.color-acento-botones.mb-4
           table
             caption Enlace para consulta: http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994.html y http://www.secretariasenado.gov.co/senado/basedoc/ley_0143_1994.html

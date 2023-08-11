@@ -17,9 +17,9 @@
         figure
           img(src='@/assets/curso/intro.svg', alt='')
 
-    //- figure
-    //-   .video
-    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bwJ1JqSRQBs" title="Recursos energéticos de acuerdo con su aprovechamiento, impacto ambiental y contexto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 </template>

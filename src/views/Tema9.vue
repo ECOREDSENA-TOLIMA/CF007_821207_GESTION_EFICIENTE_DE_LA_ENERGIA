@@ -59,7 +59,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-6(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 6. </b> <i>Capacidad instalada en Colombia al final del año 2020</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 9. </b> <i>Capacidad instalada en Colombia al final del año 2020</i>
         .tabla-a.color-acento-botones.mb-4
           table(style="width:auto")
             caption Nota. Los datos se tomaron de XM (2020).
@@ -115,7 +115,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-6(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 7. </b> <i>Generación de electricidad en Colombia en 2020</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 10. </b> <i>Generación de electricidad en Colombia en 2020</i>
         .tabla-a.color-acento-botones.mb-4
           table(style="width:auto")
             caption Nota. Los datos se tomaron de XM (2020).
@@ -168,7 +168,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-8(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 8. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 11. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
         .tabla-a.color-acento-botones.mb-4
           table(style="width:auto")
             caption Nota. La información se tomó de PARATEC (2021).
@@ -271,7 +271,7 @@
         p Se debe tener en cuenta que estos valores corresponden solo al componente de generación (G) el cual es el único que se puede negociar en el mercado.
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 9. </b> <i>Precios promedio de compra de energía en la bolsa y los precios de los contratos</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 12. </b> <i>Precios promedio de compra de energía en la bolsa y los precios de los contratos</i>
         .tabla-a.color-acento-botones.mb-4
           table
             thead
@@ -385,7 +385,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 10. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 13. </b> <i>Longitud total de líneas de transmisión en Colombia a junio de 2021</i>
         .tabla-a.color-acento-botones.mb-4
           figure
             img(src='@/assets/curso/temas/tema9/tema9-12.svg', alt='')
@@ -395,7 +395,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 11. </b> <i>Comportamiento del valor unitario promedio en el país durante los años 2016 a 2018</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 14. </b> <i>Comportamiento del valor unitario promedio en el país durante los años 2016 a 2018</i>
         .tabla-a.color-acento-botones.mb-4
           figure
             img(src='@/assets/curso/temas/tema9/tema9-13.png', alt='')
@@ -410,7 +410,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 12. </b> <i>Porcentaje de participación por tipo de usuario en 2020</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 15. </b> <i>Porcentaje de participación por tipo de usuario en 2020</i>
         .tabla-a.color-acento-botones.mb-4
           figure
             img(src='@/assets/curso/temas/tema9/tema9-14.svg', alt='')
@@ -422,7 +422,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 13. </b> <i>Distribución de consumo para los usuarios no regulados dependiendo de la actividad económica</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 16. </b> <i>Distribución de consumo para los usuarios no regulados dependiendo de la actividad económica</i>
         .tabla-a.color-acento-botones.mb-4
           figure
             img(src='@/assets/curso/temas/tema9/tema9-15.svg', alt='')

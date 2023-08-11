@@ -110,7 +110,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 3. </b> <i>Principales gases de efecto invernadero de mayor tiempo de permanencia</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 6. </b> <i>Principales gases de efecto invernadero de mayor tiempo de permanencia</i>
         .tabla-a.color-acento-botones.mb-4
           table
             caption Nota. Los datos se tomaron dela Corporación Ambiental Empresarial (2015). https://www.acueducto.com.co/wps/html/resources/2018ag/huella_carbono/informe_gei/6_anexo_3Factores_Emision_Herramienta_Inventario_GEI_EAB_2014.pdf

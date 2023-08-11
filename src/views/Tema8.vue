@@ -174,7 +174,7 @@
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Tabla 5. </b> <i>Reglas más relevantes del MEM y las resoluciones de la CREG</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 8. </b> <i>Reglas más relevantes del MEM y las resoluciones de la CREG</i>
         .tabla-a.color-acento-botones.mb-4
           table
             thead
