@@ -64,6 +64,8 @@
       .col-12
         figure
           img(src='@/assets/curso/temas/tema2/tema2-08.png', alt='')
+        div.mt-0.p-4(style="background-color: #12263F")
+          p.text-white.text-small.mb-0 El petróleo es un recurso natural de origen fósil que se encuentra de forma líquida en yacimientos subterráneos; para descubrir más sobre este recurso energético y sus aplicaciones se invita a que explore la siguiente información:
 
     p.mb-5(data-aos="fade-down-right") El petróleo pertenece a la familia de los Hidrocarburos y es denominado “oro negro” debido a su color y la importancia en todos los sectores de nuestra sociedad.
 
@@ -289,7 +291,9 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-16.svg', alt='')
+          img(src='@/assets/curso/temas/tema2/tema2-16.png', alt='')
+        div.mt-0.p-4(style="background-color: #FFCF3F")
+          p.text-small.mb-0 El gas natural es un recurso natural de origen fósil que se encuentra en estado gaseoso en yacimientos subterráneos. Al igual que el petróleo pertenece a la familia de los hidrocarburos, pero difiere en su composición, ya que principalmente contiene metano. En los últimos años se ha venido incentivando el uso de este energético, debido a que es el recurso que genera menos emisiones de gases de efecto invernadero y gases contaminantes comparado con los demás hidrocarburos y el carbón, cuando es utilizado en los procesos de combustión. Otra ventaja adicional sobre el petróleo es que no necesita procesos de tratamiento o refinación para ser utilizado.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12(data-aos="fade-right")
@@ -443,7 +447,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-27.svg', alt='')
+          img(src='@/assets/curso/temas/tema2/tema2-27.png', alt='')
+        div.mt-0.p-4(style="background-color: #12263F")
+          p.text-white.text-small.mb-0 El carbón es una roca de origen vegetal que se encuentra acumulada en yacimientos (lugar de acumulación natural durante millones de años de minerales en grandes cantidades) y que, por su alto contenido en carbono y potencial energético, es usado como combustible. El carbón se extrae por dos métodos principales: la minería subterránea y la minería de superficie. Aunque ha sido una fuente de energía utilizada desde hace muchos años, en la actualidad se pretende disminuir el uso del carbón, debido a que es un combustible fósil que produce gran cantidad de gases de efecto invernadero y material particulado contaminante durante la combustión. 
+
 
     p.mb-5(data-aos="fade-right") Se invita a consultar el siguiente video donde se explica con más detalle el origen del carbón.
 
