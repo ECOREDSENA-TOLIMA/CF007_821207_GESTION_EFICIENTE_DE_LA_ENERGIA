@@ -88,7 +88,7 @@
                   h4 Impactos ambientales estandarizados y clasificados por el medio de afectación
                   p.text-small En la siguiente tabla se muestran algunos de los impactos ambientales estandarizados y clasificados por el medio de afectación, de acuerdo con el Ministerio de Ambiente y Desarrollo Sostenible (2020).
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Impactos ambientales estandarizados y clasificados.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Impactos_ambientales_estandarizados_y_clasificados.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
