@@ -72,7 +72,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-06_6.svg', alt='')
           .text-small.text-center #[strong James Prescott Joule]
-    figcaption.mb-5 Nota Imágenes tomadas de Wikipedia.
+    figcaption.mb-5 Nota. Imágenes tomadas de Wikipedia.
       
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down-right")
