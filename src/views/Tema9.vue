@@ -72,27 +72,27 @@
               tr
                 td.text-center Hidráulica 
                 td.text-center 11.944,79
-                td.text-center 68,3%
+                td.text-center 68,3 %
               tr
                 td.text-center Térmica
                 td.text-center 5.321,34
-                td.text-center 30,4%
+                td.text-center 30,4 %
               tr
                 td.text-center Solar
                 td.text-center 60,56
-                td.text-center 0,3%
+                td.text-center 0,3 %
               tr
                 td.text-center Eólica
                 td.text-center 18,42
-                td.text-center 0,1%
+                td.text-center 0,1 %
               tr
                 td.text-center Biomasa
                 td.text-center 139,6
-                td.text-center 0,8%
+                td.text-center 0,8 %
               tr
                 th.text-center Total
                 th.text-center 17.484,71
-                th.text-center 100%
+                th.text-center 100 %
       .col-12.col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema9/tema9-06.png', alt='')
@@ -128,27 +128,27 @@
               tr
                 td.text-center Hidráulica 
                 td.text-center 49.837,40
-                td.text-center 71,9%
+                td.text-center 71,9 %
               tr
                 td.text-center Térmica
                 td.text-center 18.560,90
-                td.text-center 26,8%
+                td.text-center 26,8 %
               tr
                 td.text-center Solar
                 td.text-center 190,80
-                td.text-center 0,3%
+                td.text-center 0,3 %
               tr
                 td.text-center Eólica
                 td.text-center 10,10
-                td.text-center 0,0%
+                td.text-center 0,0 %
               tr
                 td.text-center Biomasa
                 td.text-center 724,40
-                td.text-center 1,0%
+                td.text-center 1,0 %
               tr
                 th.text-center Total
                 th.text-center 69.323,60
-                th.text-center 100%
+                th.text-center 100 %
       .col-12.col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema9/tema9-07.png', alt='')
@@ -181,31 +181,31 @@
               tr
                 td.text-center Transmisión a 110 kV 
                 td.text-center 3.961,86
-                td.text-center 14%
+                td.text-center 14 %
               tr
                 td.text-center Transmisión a 115 kV
                 td.text-center 7.799,21
-                td.text-center 28%
+                td.text-center 28 %
               tr
                 td.text-center Transmisión a 138 kV
                 td.text-center 15,49
-                td.text-center 0%
+                td.text-center 0 %
               tr
                 td.text-center Transmisión a 220 kV
                 td.text-center 2.647,24
-                td.text-center 09%
+                td.text-center 09 %
               tr
                 td.text-center Transmisión a 230 kV
                 td.text-center 10.548,26
-                td.text-center 37%
+                td.text-center 37 %
               tr
                 td.text-center Transmisión a 500 kV
                 td.text-center 3.215,17
-                td.text-center 11%
+                td.text-center 11 %
               tr
                 th.text-center Total
                 th.text-center 28.187,23
-                th.text-center 100%
+                th.text-center 100 %
       .col-12.col-md-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-12

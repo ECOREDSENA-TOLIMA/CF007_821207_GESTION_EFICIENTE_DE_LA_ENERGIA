@@ -213,7 +213,7 @@
       .col-md-8.mb-4.mb-md-0
         p Es la energía obtenida del océano; el mar provee formas de energía que se pueden explotar de las siguientes fuentes:
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Fuentes de producción de energía marina.</i>
+          p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Fuentes de producción de energía marina.</i>
         figure 
           img(src='@/assets/curso/temas/tema3/tema3-08.svg', alt='')
 
@@ -307,26 +307,22 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Distribución mundial de energías renovables 2020.</i>
+          p.titulo.pb-0.mb-0 <b>Figura 8. </b> <i>Distribución mundial de energías renovables 2020.</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
-            img(src='@/assets/curso/temas/tema3/tema3-11.svg', alt='')
-          figcaption Nota. Tomado de IRENA (2020). https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies
+            img(src='@/assets/curso/temas/tema3/tema3-11.svg', alt='La figura 8, describe la distribución mundial de energías renovables 2020. Energía hidráulica renovable 41,2%, energía sola fotovoltaica 25,3%, y energía eólica terrestre el 25%.')
+            figcaption Nota. Tomado de IRENA (2020). <a href="https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies" style="color:blue" target="_blank">https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies</a>
 
     p.mb-5(data-aos="fade-right") Y según la misma fuente, la distribución en Colombia en 2020 corresponde a la siguiente figura:
 
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Distribución Colombia de energías renovables 2020.</i>
+          p.titulo.pb-0.mb-0 <b>Figura 9. </b> <i>Distribución Colombia de energías renovables 2020.</i>
       .col-md-10.col-12(data-aos="fade-right")
           figure
-            img(src='@/assets/curso/temas/tema3/tema3-12.svg', alt='')
-          figcaption Nota. Tomado de IRENA (2020). https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies
-
-
-
-
+            img(src='@/assets/curso/temas/tema3/tema3-12.svg', alt='La figura 9, contiene la distribución en Colombia de energías renovables, energía hidráulica 93,1%, eólica terrestres 3,1%, biocombustible sólido 1,2%.')
+            figcaption Nota. Tomado de IRENA (2020). <a href="https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies" style="color:blue" target="_blank">https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies</a>
 
 
 </template>

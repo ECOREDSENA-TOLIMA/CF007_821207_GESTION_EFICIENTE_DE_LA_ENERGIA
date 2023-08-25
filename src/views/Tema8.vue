@@ -37,9 +37,9 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 9. </b> <i>Agentes del mercado que participan en el MEM.</i>
+          p.titulo.pb-0.mb-0 <b>Figura 15. </b> <i>Agentes del mercado que participan en el MEM.</i>
         figure
-          img(src='@/assets/curso/temas/tema8/tema8-02.svg', alt='')
+          img(src='@/assets/curso/temas/tema8/tema8-02.svg', alt='La figura 15, describe los agentes del mercado que participan en el MEM.')
 
     p.mb-3(data-aos="fade-right") A pesar de que en el MEM participan todos los anteriores agentes, los más activos en cuanto a transacciones y operaciones del Mercado son los Generadores y Comercializadores. Cabe mencionar que en el MEM también se realizan transacciones con agentes internacionales para el intercambio de energía.
     p.mb-5(data-aos="fade-right") Además de los agentes mencionados, participan en el MEM los siguientes órganos de operación y administración:

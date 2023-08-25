@@ -55,28 +55,37 @@
           img(src='@/assets/curso/temas/tema5/tema5-03.svg', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-12.col-md-6.p-4(data-aos="fade-down-left") 
+      .col-12.col-md-12.p-4(data-aos="fade-down-left") 
         .row.cajon.tarjeta--azul.p-3
-          p #[strong Efecto 1:] Aumento de la temperatura global: Como lo indica el IPCC (2013), el aumento de la temperatura es un hecho irrefutable, y numerosos cambios observados desde la década de 1950 no han tenido precedentes en los últimos decenios. A escala mundial, la temperatura de la superficie terrestre ha tenido un incremento promedio de 0.8 ºC desde 1880 hasta hoy y se estima un aumento entre 2.8ºC y 5.6ºC en los próximos 80 años de continuar la tendencia actual, como se muestra en la siguiente gráfica:
-          figure
-            img(src='@/assets/curso/temas/tema5/tema5-04.png', alt='')
-          p.text-center.text-small Variación promedio de la temperatura global de la tierra.
-      .col-12.col-md-6.p-4(data-aos="fade-down-right") 
+          p #[strong Efecto 1:] Aumento de la temperatura global: como lo indica el IPCC (2013), el aumento de la temperatura es un hecho irrefutable, y numerosos cambios observados desde la década de 1950 no han tenido precedentes en los últimos decenios. A escala mundial, la temperatura de la superficie terrestre ha tenido un incremento promedio de 0.8 ºC desde 1880 hasta hoy y se estima un aumento entre - 0,6 y hasta 0,6 ºC, como se muestra en la siguiente figura:
+          .titulo-sexto.color-acento-botones.px-4
+            p.titulo.pb-0.mb-0 <b>Figura 10. </b> <i>Aumento de la temperatura global.</i>
+          figure.px-4
+            img(src='@/assets/curso/temas/tema5/tema5-04.svg', alt='Figura 10. A escala mundial, la temperatura de la superficie terrestre ha tenido un incremento promedio de 0.8 ºC desde 1880 hasta hoy y se estima un aumento entre - 0,6 y hasta 0,6 ºC.')
+            figcaption Nota: tomado de <a href="https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_SPANISH.pdf" style="color:blue" target="_blank">https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_SPANISH.pdf</a> pág. 20.
+          //- p.text-center.text-small Variación promedio de la temperatura global de la tierra.
+      .col-12.col-md-12.p-4(data-aos="fade-down-right") 
         .row.cajon.tarjeta--azul.p-3
-          p #[strong Efecto 2:] Aumento del nivel del mar: A escala mundial, el nivel global del mar ha tenido un incremento promedio de 19 [cm] desde 1901 hasta 2010 y se estima un aumento entre 40 [cm] y 63 [cm] en los próximos 80 años de continuar la tendencia actual (ONU), como se muestra en la siguiente gráfica:
+          p #[strong Efecto 2:] Aumento del nivel del mar: a escala mundial, el nivel global del mar ha tenido un incremento promedio de 19 [cm] desde 1901 hasta 2010 y se estima un aumento entre 40 [cm] y 63 [cm] en los próximos 80 años de continuar la tendencia actual (ONU), como se muestra en la siguiente figura:
+          .titulo-sexto.color-acento-botones
+            p.titulo.pb-0.mb-0 <b>Figura 11. </b> <i>Aumento del nivel del mar.</i>
           figure
-            img(src='@/assets/curso/temas/tema5/tema5-05.png', alt='')
-          p.text-center.text-small Variación promedio global del nivel del mar.
+            img(src='@/assets/curso/temas/tema5/tema5-05.png', alt='Figura 11. En la última centuria ha tenido un incremento sobre le nivel del mar entre 40 y 63 cm, fenómeno que va en ascenso para los próximos 80 años.')
+            figcaption Nota: tomado de <a href="https://unesdoc.unesco.org/ark:/48223/pf0000189369_spa" target="_blank" style="color:blue">https://unesdoc.unesco.org/ark:/48223/pf0000189369_spa</a> pág. 2
+          //- p.text-center.text-small Variación promedio global del nivel del mar.
 
     .row.justify-content-center.align-items-center.mb-4.tarjeta--azul.p-3
-      .col-12.col-md-6.p-4(data-aos="fade-down-left") 
+      .col-12.col-md-12.p-4(data-aos="fade-down-left") 
         .row.cajon
-          p #[strong Efecto 3:] Pérdida de cobertura glaciar: Los análisis del IPCC (2013) indican que, desde mediados del siglo XX, la extensión del manto de nieve del hemisferio norte ha disminuido.
-          p Los deshielos no sólo han afectado al Ártico, sino también a las zonas frías y con hielos perpetuos que se hallan en las zonas altas de montañas y volcanes. La cobertura de los glaciares montañosos y la nieve ha disminuido en ambos hemisferios: sólo en el norte, el área máxima cubierta por hielos estacionales se ha reducido cerca de 7% desde 1900. (Semarnat, 2009), como se muestra en la siguiente gráfica:
-      .col-12.col-md-6.p-4(data-aos="fade-down-left")
+          p #[strong Efecto 3:] Pérdida de cobertura glaciar: los análisis del IPCC (2013) indican que, desde mediados del siglo XX, la extensión del manto de nieve del hemisferio norte ha disminuido.
+          p Los deshielos no sólo han afectado al Ártico, sino también a las zonas frías y con hielos perpetuos que se hallan en las zonas altas de montañas y volcanes. La cobertura de los glaciares montañosos y la nieve ha disminuido en ambos hemisferios: sólo en el norte, el área máxima cubierta por hielos estacionales se ha reducido cerca de 7 % desde 1900. (Semarnat, 2009), como se muestra en la siguiente gráfica:
+      .col-12.col-md-12(data-aos="fade-down-left")
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 12. </b> <i>Pérdida de cobertura glaciar.</i>
         figure
-          img(src='@/assets/curso/temas/tema5/tema5-06.png', alt='')
-        p.text-center.text-small Cobertura de nieve en el hemisferio norte (primavera).
+          img(src='@/assets/curso/temas/tema5/tema5-06.png', alt='Figura 12. La afectación del deshielo y la cobertura glaciar afectan el hemisferio norte y el hemisferio sur ocasionando problemas en accidentes geográficos a nivel de alta montaña y volcanes.')
+          figcaption Nota: tomado de <a href="https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_SPANISH.pdf" style="color:blue" target="_blank">https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_SPANISH.pdf</a> pag. 25
+        //- p.text-center.text-small Cobertura de nieve en el hemisferio norte (primavera).
 
     .cajon.color-acento-botones.p-4.mb-4
       p En cuanto a las causas del cambio climático, actualmente hay un acuerdo de la comunidad científica en atribuirlas al aumento de la concentración en la atmósfera de gases como el dióxido de carbono (CO#[sub 2]), metano (CH4), dióxido de nitrógeno (NO2) y otros, conocidos como gases de efecto invernadero.
@@ -88,9 +97,10 @@
         p Las estrategias de adaptación son necesarias porque el cambio climático natural es impredecible y no puede evitarse y ante estas circunstancias es un hecho que las acciones preventivas son más efectivas y menos costosas que las correctivas. Un ejemplo de estrategia de adaptación al aumento del nivel del mar se muestra en la siguiente figura:
       .col-12.col-md-6
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 8. </b> <i>Estrategia de adaptación al aumento del nivel del mar.</i>
+          p.titulo.pb-0.mb-0 <b>Figura 13. </b> <i>Estrategia de adaptación al aumento del nivel del mar.</i>
         figure
-          img(src='@/assets/curso/temas/tema5/tema5-07.png', alt='')
+          img(src='@/assets/curso/temas/tema5/tema5-07.png', alt='Figura 13. Las estrategia de adaptación al aumento del nivel del mar trabajan sobre retirada, acomodación y protección afectando edificaciones, humedales y cultivos.')
+          figcaption Nota: tomada de Estrategias de adaptación a aumento del nivel del mar (Mark Masli, Cambio climático, 2014)
         //p.text-center.text-small Estrategias de adaptación a aumento del nivel del mar (Mark Masli, Cambio climático, 2014)
 
     p.mb-5(data-aos="fade-right") De otra parte, están las estrategias de mitigación que hacen referencia a aquellas acciones encaminadas a disminuir las causas que producen el cambio climático, como por ejemplo, la denominada huella de carbono y cambiar de fuente primaria de energía no renovable (combustibles fósiles) a fuentes renovables como la solar, eólica, mareomotriz, geotérmica y nuclear. Revise a qué hacen alusión dichas fuentes:

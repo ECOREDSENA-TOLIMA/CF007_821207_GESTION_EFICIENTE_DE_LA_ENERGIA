@@ -29,8 +29,11 @@
             i.fas.fa-bolt(style="color:#AD84FF")
             | Es decir, emitir al ambiente una tonelada de CH4 equivale a la emisión de 25 toneladas de CO2e. El factor de 25 equivale al Potencial de Calentamiento Global del CH4 con respecto al CO2. 
       .col-12.col-md-6
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 14. </b> <i>Incidencia porcentual de la huella de carbono.</i>
         figure
-          img(src='@/assets/curso/temas/tema6/tema6-01.svg', alt='')
+          img(src='@/assets/curso/temas/tema6/tema6-01.svg', alt='Figura 14. La incidencia porcentual de la huella de carbono está estimada en un 25% para electricidad y producción de calor, un 24% para agricultura y otros usos de la tierra, 21% en la industria, 14% en transporte, 10% en edificaciones y 6% en otroS sectores.')
+          figcaption Nota: tomada de <a href="https://www.freepik.es/vector-premium/infografia-huella-carbono-diseno-plano_9967177.htm" target="_blank" style="color:blue">https://www.freepik.es/vector-premium/infografia-huella-carbono-diseno-plano_9967177.htm</a>
 
     Separador
     #t_6_1.titulo-segundo.color-acento-botones(data-aos="fade-right")

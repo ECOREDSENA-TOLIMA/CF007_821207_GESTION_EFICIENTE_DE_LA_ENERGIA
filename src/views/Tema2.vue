@@ -273,8 +273,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-10
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Reservas y producción de petróleo, histórico 2007 - 2020.</i>
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-15.png', alt='')
+          img(src='@/assets/curso/temas/tema2/tema2-15.png', alt='Figura . La reserva probada de petróleo fluctúa entre 1.358 y 1.816 (Mbis) con una producción anual fluctuando entre 154 286 (Mbis) encontrando que la reserva fluctúa entre un máximo de un 8,1 y un mínimo de un 5,1.')
+          figcaption Nota: tomado de <a style="color:blue" href="https://www.anh.gov.co/es/operaciones-y-regal%C3%ADas/datos-y-estadisticas/" target="_blank">https://www.anh.gov.co/es/operaciones-y-regal%C3%ADas/datos-y-estadisticas/</a>
 
     h5 Reservas y producción de petróleo
     p En la figura anterior se observan los datos correspondientes a tres variables:
@@ -418,9 +421,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-12
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Reservas y producción comercializada de gas. Histórico 2007 - 2020.</i>
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-25.svg', alt='')
-
+          img(src='@/assets/curso/temas/tema2/tema2-25.svg', alt='Figura 5. En los últimos 13 años la producción de gas con menor índice de se encuentra sobre el 2009 con 2.949 (Gpc) correspondiente a un 7,7 de su producción siendo el máximo 5.727 (Gpc) correspondiente a un 13,4 de su producción sucedido en el 2012')
+          figcaption Nota: tomado de <a href="https://www.anh.gov.co/es/operaciones-y-regal%C3%ADas/datos-y-estadisticas/" style="color:blue" target="_blank">https://www.anh.gov.co/es/operaciones-y-regal%C3%ADas/datos-y-estadisticas/</a>
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right") 
       .col-12.col-md-6
         p En la gráfica anterior se observan los datos correspondientes a tres variables:
@@ -547,17 +552,17 @@
     p.mb-5(data-aos="fade-right") En la siguiente figura se muestran las cifras de producción del sector de acuerdo con los datos estadísticos publicados por el Sistema de Información Minero Colombiano (2021).
 
     .row.justify-content-center.mb-5
-      .col-12(data-aos="fade-left")
+      //- .col-12.col-md-10(data-aos="fade-left")
+      //- .col-md-4.col-12(data-aos="fade-right")
+      //-     figure
+      //-       img(src='@/assets/curso/temas/tema2/tema2-34.svg', alt='')
+      .col-md-10.col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Datos de la producción anual de carbón en Colombia.</i>
-      .col-md-4.col-12(data-aos="fade-right")
-          figure
-            img(src='@/assets/curso/temas/tema2/tema2-34.svg', alt='')
-      .col-md-8.col-12(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/temas/tema2/tema2-35.svg', alt='')
-
-    p.mb-5(data-aos="fade-right") En la figura anterior se observan los datos correspondientes a la producción anual de carbón en Colombia (en millones de toneladas) desde el año 2012 hasta el año 2020. Las cifras de producción se mantienen en valores regulares entre 84.000 y 91.000 toneladas al año; sin embargo, para el año 2020 la producción disminuyó cerca de un 40% con respecto al año anterior, debido a las restricciones de movilidad implantadas por la mitigación de la propagación de la pandemia del Covid 19 y por una huelga de trabajadores que duró cerca de tres meses.
+          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Datos de la producción anual de carbón en Colombia.</i>
+        figure
+          img(src='@/assets/curso/temas/tema2/tema2-35.svg', alt='Figura 6. es un gráfico de barras verticales en el que muestra la producción de carbón desde 2012 con 90´000.000 y se mantiene en ese rango con pequeñas disminución en los años 2013 al 2015, y con una disminución de 50´000.000 en  producción a 2020.')
+          figcaption Nota: tomada de Sistema de Información Minero Colombiano (2021). <a href="https://www1.upme.gov.co/simco/Cifras-Sectoriales/Paginas/carbon.aspx" style="color:blue" target="_blank">https://www1.upme.gov.co/simco/Cifras-Sectoriales/Paginas/carbon.aspx</a>
+    p.mb-5(data-aos="fade-right") En la figura anterior se observan los datos correspondientes a la producción anual de carbón en Colombia (en millones de toneladas) desde el año 2012 hasta el año 2020. Las cifras de producción se mantienen en valores regulares entre 84.000 y 91.000 toneladas al año; sin embargo, para el año 2020 la producción disminuyó cerca de un 40 % con respecto al año anterior, debido a las restricciones de movilidad implantadas por la mitigación de la propagación de la pandemia del Covid 19 y por una huelga de trabajadores que duró cerca de tres meses.
 
 
     Separador
@@ -570,13 +575,13 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            p Mientras esta cantidad sea igual o muy cercana al 100%, se puede afirmar que el proceso es eficiente, pero si dicha cantidad se aleja del 100% significa que se presentan pérdidas considerables en el proceso de transformación.
+            p Mientras esta cantidad sea igual o muy cercana al 100 %, se puede afirmar que el proceso es eficiente, pero si dicha cantidad se aleja del 100 % significa que se presentan pérdidas considerables en el proceso de transformación.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-36.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            p Por ejemplo, si se tiene una estufa alimentada con gas natural con una eficiencia del 60%, y se utiliza para calentar agua a 100 centígrados, quiere decir que solo el 60% de la energía del gas natural a la entrada de la estufa se convertirá en energía para calentar el agua y el 40% de energía restante se pierde en el proceso de combustión, en el ambiente y en el calentamiento de los demás elementos que componen la estufa. A este 40% normalmente se le denomina porcentaje de pérdidas.
+            p Por ejemplo, si se tiene una estufa alimentada con gas natural con una eficiencia del 60 %, y se utiliza para calentar agua a 100 centígrados, quiere decir que solo el 60 % de la energía del gas natural a la entrada de la estufa se convertirá en energía para calentar el agua y el 40 % de energía restante se pierde en el proceso de combustión, en el ambiente y en el calentamiento de los demás elementos que componen la estufa. A este 40 % normalmente se le denomina porcentaje de pérdidas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-37.png', alt='')
@@ -654,7 +659,7 @@
             //-   img(src='@/assets/curso/temas/tema2/tema2-40.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
-            p Se puede observar que las eficiencias para cualquier tipo de energético en el transporte privado son muy bajas y no superan el 34%. Si se toma el caso de las camionetas, el energético con mayor eficiencia es el Gas Natural, por esta razón muchos usuarios han realizado la conversión de gasolina a Gas Natural. Para el caso de los automóviles, las eficiencias con muy cercanas entre cada tipo de energético. Debido a que las eficiencias en los vehículos de pasajeros son muy bajas, se está dando impulso a la movilidad eléctrica.
+            p Se puede observar que las eficiencias para cualquier tipo de energético en el transporte privado son muy bajas y no superan el 34 %. Si se toma el caso de las camionetas, el energético con mayor eficiencia es el Gas Natural, por esta razón muchos usuarios han realizado la conversión de gasolina a Gas Natural. Para el caso de los automóviles, las eficiencias con muy cercanas entre cada tipo de energético. Debido a que las eficiencias en los vehículos de pasajeros son muy bajas, se está dando impulso a la movilidad eléctrica.
           .col-md-6
             .titulo-sexto.color-acento-botones.mb-1
               p.titulo.pb-0.mb-0 <b>Tabla 5. </b> <i>Vehículos privados de pasajeros</i>
