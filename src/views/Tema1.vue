@@ -37,7 +37,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-02.png', alt='')
+                img(src='@/assets/curso/temas/tema1/tema1-02_2.svg', alt='')
           .text-small.text-center #[strong Sadi Carnot]
 
       .col-sm-6.col-lg-2.col-md-4.mb-4.mb-lg-0
@@ -45,7 +45,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-03.png', alt='')
+                img(src='@/assets/curso/temas/tema1/tema1-03_3.svg', alt='')
           .text-small.text-center #[strong William Rankine]
 
       .col-sm-6.col-lg-2.col-md-4.mb-4.mb-lg-0
@@ -53,7 +53,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-04.png', alt='')
+                img(src='@/assets/curso/temas/tema1/tema1-04_4.svg', alt='')
           .text-small.text-center #[strong Rudolph Clausius]
 
       .col-sm-6.col-lg-2.col-md-4.mb-4.mb-lg-0
@@ -61,7 +61,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-05.png', alt='')
+                img(src='@/assets/curso/temas/tema1/tema1-05_5.svg', alt='')
           .text-small.text-center #[strong Lord Kelvin]
           .text-small.text-center (antes William Thomson)
           
@@ -70,8 +70,10 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-06.png', alt='')
+                img(src='@/assets/curso/temas/tema1/tema1-06_6.svg', alt='')
           .text-small.text-center #[strong James Prescott Joule]
+    figcaption.mb-5 Nota. Imágenes tomadas de Wikipedia.
+      
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down-right")
       .bloque-texto-g__img(
