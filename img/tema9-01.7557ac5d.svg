@@ -1,0 +1,17 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="93.789" height="94.317" viewBox="0 0 93.789 94.317">
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="water_energy" data-name="water energy">
+      <path id="Trazado_624381" data-name="Trazado 624381" d="M46.895,0A46.9,46.9,0,0,0,0,46.895v.488a10.551,10.551,0,0,0,13.678-2.442,10.649,10.649,0,0,0,16.608,0,10.649,10.649,0,0,0,16.608,0,10.649,10.649,0,0,0,16.608,0,10.649,10.649,0,0,0,16.608,0,10.551,10.551,0,0,0,13.678,2.481c0-.156,0-.332,0-.488A46.9,46.9,0,0,0,46.895,0Z" transform="translate(0 0)" fill="#8ddef1"/>
+      <path id="Trazado_624382" data-name="Trazado 624382" d="M80.111,23A10.649,10.649,0,0,1,63.5,23a10.649,10.649,0,0,1-16.608,0,10.649,10.649,0,0,1-16.608,0,10.649,10.649,0,0,1-16.608,0A10.551,10.551,0,0,1,0,25.482a46.895,46.895,0,0,0,93.789,0A10.551,10.551,0,0,1,80.111,23Z" transform="translate(0 21.941)" fill="#769aff"/>
+      <path id="Trazado_624383" data-name="Trazado 624383" d="M26.849,37.96,21.964,7.42,15.77,52.634,36.384,41.907l4.631,30.306,6.428-45Z" transform="translate(15.044 7.078)" fill="#f8b55b"/>
+      <g id="Grupo_889183" data-name="Grupo 889183" transform="translate(11.841 54.3)">
+        <circle id="Elipse_4897" data-name="Elipse 4897" cx="3.654" cy="3.654" r="3.654" transform="translate(30.775 24.913)" fill="#556dd3"/>
+        <circle id="Elipse_4898" data-name="Elipse 4898" cx="3.654" cy="3.654" r="3.654" transform="translate(7.327 14.655)" fill="#556dd3"/>
+        <circle id="Elipse_4899" data-name="Elipse 4899" cx="3.654" cy="3.654" r="3.654" fill="#556dd3"/>
+        <circle id="Elipse_4900" data-name="Elipse 4900" cx="3.654" cy="3.654" r="3.654" transform="translate(24.913 8.793)" fill="#556dd3"/>
+        <circle id="Elipse_4901" data-name="Elipse 4901" cx="3.654" cy="3.654" r="3.654" transform="translate(65.711 0.371)" fill="#556dd3"/>
+        <circle id="Elipse_4902" data-name="Elipse 4902" cx="3.654" cy="3.654" r="3.654" transform="translate(53.987 10.629)" fill="#556dd3"/>
+      </g>
+    </g>
+  </g>
+</svg>
